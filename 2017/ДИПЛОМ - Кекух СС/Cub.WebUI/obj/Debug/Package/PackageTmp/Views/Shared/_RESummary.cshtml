@@ -1,0 +1,37 @@
+﻿@model Cub.Domian.Entitis.RealEstate
+<style>
+    .effect >a> img {
+        width: 100%;
+    }
+</style>
+<link href="~/Content/Site.css" rel="stylesheet" />
+<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+<div class="col-md-6" style="padding-right:0; ">
+    <div class="container_left">
+        <div class="left_div_one">
+            <div class="effect eff-2-3" style="margin-bottom:10%;">
+                <a href="@Url.Action("ObjectREPage", "RealEstate", new { item_id = Model.Id })" title="@Model.Type">
+                    @if (Model.imgOne != null)
+                    {
+                        @Html.Raw("<img class=\"img-responsive center-block\" src =\"data:image/jpeg;base64," + Convert.ToBase64String(Model.imgOne) + "\"/>")
+                    }
+                    else
+                    {
+                        <img src="~/images/Home-Wallpaper-Fourth.jpg" style="width:100%;margin-bottom:20%;" />
+                    }
+
+                    <div class="menu_s">
+                        <h3><span class="label label-danger pull-right"> @Model.Budget.ToString("# USD")</span> </h3>
+                    </div>
+                    <div class="caption">
+                        <h4>@Model.Citi<br/>
+                            @Model.Category<br />
+                        @Model.Rooms.ToString("# комнатная") <br />
+                        @Model.Info</h4>                      
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+

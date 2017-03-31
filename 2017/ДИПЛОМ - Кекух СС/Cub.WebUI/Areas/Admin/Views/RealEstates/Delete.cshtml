@@ -1,0 +1,186 @@
+﻿@model Cub.Domian.Entitis.RealEstate
+
+@{
+    ViewBag.Title = "Недвижимость";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+
+}
+<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Delete</title>
+</head>
+<body>
+    <h3>Are you sure you want to delete this?</h3>
+    <div>
+        <h4>RealEstate</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Type)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Type)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Category)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Category)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.InhabitedLocalityAndDistrict)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.InhabitedLocalityAndDistrict)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Citi)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Citi)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Rooms)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Rooms)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.HundredPart)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.HundredPart)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Square)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Square)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Additionally)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Additionally)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Budget)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Budget)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.PhoneNumber)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.PhoneNumber)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Date)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Date)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Tags)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Tags)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Info)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Info)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.TypeOfOperations)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.TypeOfOperations)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.imgOne)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.imgOne)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.imgTwo)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.imgTwo)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.imgThree)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.imgThree)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.imgFhore)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.imgFhore)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.imgFive)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.imgFive)
+            </dd>
+    
+        </dl>
+    
+        @using (Html.BeginForm()) {
+            @Html.AntiForgeryToken()
+    
+            <div class="form-actions no-color">
+                <input type="submit" value="Delete" class="btn btn-default" /> |
+                @Html.ActionLink("Вернуться к списку", "Index")
+            </div>
+        }
+    </div>
+</body>
+</html>

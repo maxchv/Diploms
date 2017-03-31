@@ -1,0 +1,48 @@
+﻿@using Cub.WebUI.Models
+@model RealEstateListViewModel
+@{
+    ViewBag.Title = "Вся недвижимость";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link href="~/Content/Site.css" rel="stylesheet" />
+
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="row panel">
+                <div id="categories" class="col-md-3" style="padding-right: 5px;">
+                    <div class="col-md-12">
+                        @Html.Action("MenuAll", "Nav")
+                    </div>
+                    <div class="col-md-12">
+                        @Html.Partial("_Filter")
+                    </div>
+                </div>
+                <div class="col-md-9" style="margin-left:0; padding-left: 5px;">
+                    <div class="col-md-12" style="padding-left: 5px;">
+                        @if (TempData["message"] != null)
+                        {
+                            <script type="text/javascript">
+                                setTimeout(function () { $('.navblock').fadeOut('fast') }, 5000);  //5000 = 5 секунд
+                            </script>
+                                        <div class="alert alert-success navblock" style="text-align: center;"><strong>@TempData["message"]</strong></div>
+
+                        }
+                        @foreach (var rEstate in Model.RealEstates)
+                        {
+                            @Html.Partial("_RESummary", rEstate)
+                        }
+
+                    </div>
+                    <div class="page-bloc btn-group pull-right" style="margin-right:15px;">
+                        @Html.PageLinks(Model.PagingInfo, x => Url.Action("ListAll", new { page = x, typeOperation = Model.CurrentTypeOfOperations }))
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+

@@ -1,0 +1,43 @@
+﻿@model Cub.Domian.Entitis.RealEstate
+@{
+    ViewBag.Title = "Объект недвижимости";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<link href="~/Content/Site.css" rel="stylesheet" />
+<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="row panel">
+
+                <div id="categories" class="col-md-3" style="padding-right: 5px;">
+                    <div class="col-md-12">
+                        <h3>
+                            <strong>@Model.InhabitedLocalityAndDistrict - @Model.Rooms.ToString("# комнатная")</strong>
+                            <span class="pull-right label label-primary">@Model.Budget.ToString("# USD")</span>
+                        </h3>
+                        <span class="lead">@Model.TypeOfOperations</span> <br />
+                        <span class="lead">@Model.Info</span>    <br />
+                    </div>
+                    
+                </div>
+                <div class="col-md-9" style="margin-left:0; padding-left: 0px;">
+                    
+                        @Html.Partial("_ObjectRESummary", Model)
+                        <div class="col-xs-5 pull-left" style="padding-left:0;">
+                            @Html.ActionLink("Вернуться назад", "ListAll", "RealEstate", new { @class = "buttonBtn btn-block  btn-lg" })
+
+                        </div>
+                        <div class="col-xs-5 pull-right" style="padding-right:0;">
+                            @Html.ActionLink("Заполнить заявку", "ModalForm", "Order", new { item_id = Model.Id }, new { @class = "viewDialog compItem buttonBtn btn-block  btn-lg", data_dialog_title = "Создать запрос на недвижимаость" })
+           
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </div>
+</div>
+

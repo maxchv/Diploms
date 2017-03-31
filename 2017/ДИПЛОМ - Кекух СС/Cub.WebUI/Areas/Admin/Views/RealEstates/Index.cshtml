@@ -1,0 +1,97 @@
+﻿@model IEnumerable<Cub.Domian.Entitis.RealEstate>
+
+@{
+    ViewBag.Title = "Недвижимость";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+<div>
+    <a  href="@Url.Action("Index", "Orders")" class="btn">Заявка на недвижимость</a>&emsp;/&emsp;
+    <a  href="@Url.Action("Index", "OrderClients")" role="button" class="btn">Пустая заявка</a>
+</div>
+
+
+<h2>Главная страница по работе с Недвижимостью</h2>
+
+<div class="panel panel-default">
+    <div class="panel-heading text-center">
+        <b>Список недвижимости</b>
+    </div>
+    <div class="panel-body">
+        <table class="table table-striped table-condensed table-bordered">
+            <tr>
+                <th class="text-right">
+                    @Html.DisplayNameFor(model => model.Id)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Type)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Category)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.InhabitedLocalityAndDistrict)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Rooms)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Budget)
+                </th>
+
+                <th>
+                    @Html.DisplayNameFor(model => model.Date)
+                </th>
+
+                <th class="text-right">
+                    @Html.DisplayNameFor(model => model.TypeOfOperations)
+                </th>
+                <th class="text-center">
+                    Действия
+                </th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Id)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Type)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Category)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.InhabitedLocalityAndDistrict)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Rooms)
+                    </td>
+
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Budget)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Date)
+                    </td>
+
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TypeOfOperations)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Изменить", "Edit", new { id = item.Id }, new { @class = "btn btn-default" }) |
+                        @Html.ActionLink("Детали", "Details", new { id = item.Id }, new { @class = "btn btn-default" }) |
+                        @Html.ActionLink("Удалить", "Delete", new { id = item.Id }, new { @class = "btn btn-default" })
+                    </td>
+                </tr>
+            }
+
+        </table>
+
+        <div class="panel-footer">
+            @Html.ActionLink("Созадть", "Create", null, new { @class = "btn btn-default" })
+        </div>
+    </div>
+</div>

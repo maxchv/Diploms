@@ -1,0 +1,214 @@
+﻿@model Cub.Domian.Entitis.RealEstate
+
+
+<style>
+    .hide-bullets {
+        list-style: none;
+        margin-left: -40px;
+        margin-top: 20px;
+    }
+    
+    img{
+        width:100%;
+    }
+
+</style>
+<!-- Скрипт на языке JavaScript -->
+
+<div class="col-sm-12" style="margin-bottom:20px;">
+    <div id="main_area">
+        <!-- Slider -->
+        <div class="row">
+            <div class="col-sm-12" id="slider">
+                <!-- Top part of the slider -->
+                <div class="row">
+                    <div class="col-sm-12" id="carousel-bounding-box">
+                        <div class="carousel slide" id="myCarousel">
+                            <!-- Carousel items -->
+                            <div class="carousel-inner">
+                                <div class="active item" data-slide-number="0">
+                                    @if (Model.imgOne != null)
+                                    {
+                                        @Html.Raw("<img style=\"width: 100 %; \" class=\"img-responsive center-block\" src =\"data:image/jpeg;base64,"
+                                + Convert.ToBase64String(Model.imgOne) + "\" />")
+                                    }
+                                    else
+                                    {
+                                        <img src="~/images/Home-Wallpaper-Fourth.jpg"  />
+                                    }
+                                    
+                                </div>
+
+                                <div class="item" data-slide-number="1">
+                                    @if (Model.imgTwo != null)
+                                    {
+                                        @Html.Raw("<img class=\"img-responsive\" src =\"data:image/jpeg;base64,"
+                                + Convert.ToBase64String(Model.imgTwo) + "\"/>")
+                                    }
+                                    else
+                                    {
+                                        <img src="~/images/Home-Wallpaper-Two.jpg" />
+                                    }
+                                    
+                                </div>
+
+                                <div class="item" data-slide-number="2">
+                                    @if (Model.imgThree != null)
+                                    {
+                                        @Html.Raw("<img class=\"img-responsive\" src =\"data:image/jpeg;base64,"
+                                + Convert.ToBase64String(Model.imgThree) + "\"/>")
+                                    }
+                                    else
+                                    {
+                                        <img src="~/images/Home-Wallpaper-Three.jpg" />
+                                    }
+                                    
+                                </div>
+
+                                <div class="item" data-slide-number="3">
+                                    @if (Model.imgFhore != null)
+                                    {
+                                        @Html.Raw("<img class=\"img-responsive\" src =\"data:image/jpeg;base64,"
+                                + Convert.ToBase64String(Model.imgFhore) + "\"/>")
+                                    }
+                                    else
+                                    {
+                                        <img src="~/images/Home-Wallpaper-Fourth.jpg"  />
+                                    }
+                                    
+                                </div>
+
+                                <div class="item" data-slide-number="4">
+                                    @if (Model.imgFive != null)
+                                    {
+                                        @Html.Raw("<img class=\"img-responsive\" src =\"data:image/jpeg;base64,"
+                                + Convert.ToBase64String(Model.imgFive) + "\"/>")
+                                    }
+                                    else
+                                    {
+                                        <img src="~/images/Home-Wallpaper-One.jpg" />
+                                    }
+                                    
+                                </div>
+                                <div class="item" data-slide-number="5">
+                                    @if (Model.imgOne != null)
+                                    {
+                                        @Html.Raw("<img style=\"width: 100 %; \" class=\"img-responsive center-block\" src =\"data:image/jpeg;base64,"
+                                + Convert.ToBase64String(Model.imgOne) + "\" />")
+                                    }
+                                    else
+                                    {
+                                        <img src="~/images/Home-Wallpaper-Fourth.jpg" />
+                                    }
+
+                                </div>
+                                
+                            </div><!-- Carousel nav -->
+                            <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+                                <span class="glyphicon glyphicon-chevron-left"></span>
+                            </a>
+                            <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+                                <span class="glyphicon glyphicon-chevron-right"></span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div><!--/Slider-->
+
+        <div class="row hidden-xs" id="slider-thumbs">
+            <!-- Bottom switcher of slider -->
+            <ul class="hide-bullets">
+                <li class="col-sm-2">
+                    <a class="thumbnail" id="carousel-selector-0">
+
+                        @if (Model.imgOne != null)
+                        {
+                            @Html.Raw("<img style=\"width: 100 %; \" class=\"img-responsive center-block\" src =\"data:image/jpeg;base64,"
+                                + Convert.ToBase64String(Model.imgOne) + "\" />")
+                        }
+                        else
+                        {
+                            <img src="~/images/Home-Wallpaper-Fourth.jpg"  />
+                        }
+                    </a>
+                </li>
+
+                <li class="col-sm-2">
+                    <a class="thumbnail" id="carousel-selector-1">
+
+                        @if (Model.imgTwo != null)
+                        {
+                            @Html.Raw("<img class=\"img-responsive\" src =\"data:image/jpeg;base64,"
+                                + Convert.ToBase64String(Model.imgTwo) + "\"/>")
+                        }
+                        else
+                        {
+                            <img src="~/images/Home-Wallpaper-Two.jpg" />
+                        }
+                    </a>
+                </li>
+
+                <li class="col-sm-2">
+                    <a class="thumbnail" id="carousel-selector-2">
+
+                        @if (Model.imgThree != null)
+                        {
+                            @Html.Raw("<img class=\"img-responsive\" src =\"data:image/jpeg;base64,"
+                                + Convert.ToBase64String(Model.imgThree) + "\"/>")
+                        }
+                        else
+                        {
+                            <img src="~/images/Home-Wallpaper-Three.jpg" />
+                        }
+                    </a>
+                </li>
+
+                <li class="col-sm-2">
+                    <a class="thumbnail" id="carousel-selector-3">
+
+                        @if (Model.imgFhore != null)
+                        {
+                            @Html.Raw("<img class=\"img-responsive\" src =\"data:image/jpeg;base64,"
+                                + Convert.ToBase64String(Model.imgFhore) + "\"/>")
+                        }
+                        else
+                        {
+                            <img src="~/images/Home-Wallpaper-Fourth.jpg" />
+                        }
+                    </a>
+                </li>
+
+                <li class="col-sm-2">
+                    <a class="thumbnail" id="carousel-selector-4">
+
+                        @if (Model.imgFive != null)
+                        {
+                            @Html.Raw("<img class=\"img-responsive\" src =\"data:image/jpeg;base64,"
+                                + Convert.ToBase64String(Model.imgFive) + "\"/>")
+                        }
+                        else
+                        {
+                            <img src="~/images/Home-Wallpaper-One.jpg" />
+                        }
+                    </a>
+                </li>
+                <li class="col-sm-2">
+                    <a class="thumbnail" id="carousel-selector-5">
+
+                        @if (Model.imgFhore != null)
+                        {
+                            @Html.Raw("<img class=\"img-responsive\" src =\"data:image/jpeg;base64,"
+                                + Convert.ToBase64String(Model.imgFhore) + "\"/>")
+                        }
+                        else
+                        {
+                            <img src="~/images/Home-Wallpaper-Fourth.jpg" />
+                        }
+                    </a>
+                </li>
+            </ul>
+        </div>
+        
+    </div>
+</div>

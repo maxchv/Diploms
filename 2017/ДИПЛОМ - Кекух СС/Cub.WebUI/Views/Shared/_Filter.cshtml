@@ -1,0 +1,62 @@
+﻿<div class="panel-group panel panel-primary menu_filt" id="collapse-group" >
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a data-toggle="collapse" data-parent="#collapse-group" href="#el1">Фильтр недвижимости</a>
+            </h4>
+        </div>
+        <div id="el1" class="panel-collapse collapse in">
+            <div class="panel-body ">
+                @using (Html.BeginForm("ListAllFilter", "RealEstate"))
+                {
+                    <div class="control-group form-horizontal">
+                        <div class="controls">
+                            
+                                <label class="control-label">
+                                    Тип помещения
+                                </label>
+                           
+                        </div>
+                        @Html.DropDownList("category", new SelectList(new[] { "", "Квартира", "Дом", "Гараж" }), new { htmlAttributes = new { @class = "span1 col-xs-1 pull-right" } })
+                        <div class="controls">
+                           
+                                <label class="control-label">
+                                    Город
+                                   
+                                </label>
+                            
+                        </div>
+                        @Html.DropDownList("citi", new SelectList(new[] { "", "Днепропетровск", "Киев", "Одеса" }), new { htmlAttributes = new { @class = "span1 col-xs-1 pull-right" } })
+                        <div class="controls">
+                            
+                                <label class="control-label">
+                                    Район
+                                   
+                                </label>
+                            
+                        </div>
+                        @Html.DropDownList("rayon", new SelectList(new[] { "", "Ленинский", "Центральный", "Индустриальный" }), new { htmlAttributes = new { @class = "span1 col-xs-1 pull-right" } })
+                        <div class="controls">
+                            
+                                <label class="control-label pull-left"> Цена <br/> </label>
+                            <br />
+                        </div>
+                        <br />
+                        <div class="controls pull-left">
+                            <input type="text" class="input-mini mod_min " placeholder="min" name="costBegin"> - <input type = "text" class="input-mini mod_min" placeholder="max" name="costOf">
+                        </div>
+                    </div>
+                    
+                    <br/>
+                    <div class="control-group" style="margin-top:10px;">
+                        <div class="controls">
+                            <button type = "submit" class="btn btn-primary pull-right " style="margin-top:10px;">Создать запрос</button>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+
+</div>
+

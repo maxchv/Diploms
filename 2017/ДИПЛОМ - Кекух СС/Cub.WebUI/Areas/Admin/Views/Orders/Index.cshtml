@@ -1,0 +1,134 @@
+﻿@model IEnumerable<Cub.Domian.Entitis.Order>
+
+@{
+    ViewBag.Title = "Заявка";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+
+}
+
+<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+<div>
+    <a href="@Url.Action("Index", "RealEstates")">Список недвижимости</a>&emsp;/&emsp;
+    <a href="@Url.Action("Index", "OrderClients")">Пустая заявка</a>
+</div>
+
+<h2>Заявка на недвижимотсь</h2>
+
+<div class="panel panel-default">
+    <div class="panel-heading text-center">
+        <b>Список заявок</b>
+    </div>
+    <div class="panel-body">
+        <table class="table table-striped table-condensed table-bordered">
+            <tr class="text-right">
+                <th>
+                    @Html.DisplayNameFor(model => model.Id)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.RealEstate.Type)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Name)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Date)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.City)
+                </th>
+              
+                <th>
+                    @Html.DisplayNameFor(model => model.TypeOfLodging)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.CostOf)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.CostBegin)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.AdditionalInfo)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Phone)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Email)
+                </th>
+              
+                <th>
+                    @Html.DisplayNameFor(model => model.ContactMeByPhone)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ContactMeByEmail)
+                </th>
+                <th class="text-right">
+                    @Html.DisplayNameFor(model => model.Agreement)
+                </th>
+                <th class="text-center">
+                    Действия
+                </th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Id)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.RealEstate.Type)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Date)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.City)
+                    </td>
+
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TypeOfLodging)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CostOf)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CostBegin)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.AdditionalInfo)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Phone)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Email)
+                    </td>
+
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ContactMeByPhone)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ContactMeByEmail)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Agreement)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Изменить", "Edit", new { id = item.Id }, new { @class = "btn btn-default" }) |
+                        @Html.ActionLink("Детали", "Details", new { id = item.Id }, new { @class = "btn btn-default" }) |
+                        @Html.ActionLink("Удалить", "Delete", new { id = item.Id }, new { @class = "btn btn-default" })
+                    </td>
+                </tr>
+            }
+
+        </table>
+        <div class="panel-footer">
+            @Html.ActionLink("Создать", "Create", null, new { @class = "btn btn-default" })
+            </p>
+        </div>
+    </div>
+</div>

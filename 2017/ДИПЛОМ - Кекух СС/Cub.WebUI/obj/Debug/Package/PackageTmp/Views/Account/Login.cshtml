@@ -1,0 +1,43 @@
+﻿@model Cub.WebUI.Models.LoginViewModel
+
+@{
+    ViewBag.Title = "Login";
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Индификация</title>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4 col-md-offset-4" style="margin-top:10em;">
+                <div class="form">
+                    <form class="form-horizontal" role="form" method="POST">
+                        <div class="row">
+                            <div class="panel-body">
+                                <p class="lead">Пожалуйста, войдите в систему:</p>
+                                @using (Html.BeginForm())
+                                {
+                                    @Html.ValidationSummary()
+                                    <div class="form-group">
+                                        <label>Имя пользователя:</label>
+                                        @Html.TextBoxFor(m => m.UserName, new { @class = "form-control" })
+                                    </div>
+                                    <div class="form-group">
+                                        <label>Пароль:</label>
+                                        @Html.PasswordFor(m => m.Password, new { @class = "form-control" })
+                                    </div>
+                                    <input type="submit" value="Войти" class="btn btn-primary" />
+                                }
+                            </div>
+                        </div>
+                    </form>
+                </div><!-- form  -->
+            </div>
+        </div>
+    </div>
+</body>
+</html>

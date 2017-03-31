@@ -1,0 +1,1180 @@
+d:\user\мои документы\visual studio 2013\Projects\SolutionCub\Cub.WebUI\bin\Cub.WebUI.dll.config
+d:\user\мои документы\visual studio 2013\Projects\SolutionCub\Cub.WebUI\bin\Cub.WebUI.dll
+d:\user\мои документы\visual studio 2013\Projects\SolutionCub\Cub.WebUI\bin\Cub.WebUI.pdb
+d:\user\мои документы\visual studio 2013\Projects\SolutionCub\Cub.WebUI\bin\System.Web.Helpers.dll
+d:\user\мои документы\visual studio 2013\Projects\SolutionCub\Cub.WebUI\bin\System.Web.Mvc.dll
+d:\user\мои документы\visual studio 2013\Projects\SolutionCub\Cub.WebUI\bin\System.Web.Razor.dll
+d:\user\мои документы\visual studio 2013\Projects\SolutionCub\Cub.WebUI\bin\System.Web.Webpages.Deployment.dll
+d:\user\мои документы\visual studio 2013\Projects\SolutionCub\Cub.WebUI\bin\System.Web.Webpages.dll
+d:\user\мои документы\visual studio 2013\Projects\SolutionCub\Cub.WebUI\bin\System.Web.Webpages.Razor.dll
+d:\user\мои документы\visual studio 2013\Projects\SolutionCub\Cub.WebUI\bin\System.Web.Razor.xml
+d:\user\мои документы\visual studio 2013\Projects\SolutionCub\Cub.WebUI\bin\System.Web.Webpages.xml
+d:\user\мои документы\visual studio 2013\Projects\SolutionCub\Cub.WebUI\bin\System.Web.Webpages.Deployment.xml
+d:\user\мои документы\visual studio 2013\Projects\SolutionCub\Cub.WebUI\bin\System.Web.Webpages.Razor.xml
+d:\user\мои документы\visual studio 2013\Projects\SolutionCub\Cub.WebUI\bin\System.Web.Helpers.xml
+d:\user\мои документы\visual studio 2013\Projects\SolutionCub\Cub.WebUI\bin\System.Web.Mvc.xml
+d:\user\мои документы\visual studio 2013\Projects\SolutionCub\Cub.WebUI\obj\Debug\Cub.WebUI.csprojResolveAssemblyReference.cache
+d:\user\мои документы\visual studio 2013\Projects\SolutionCub\Cub.WebUI\obj\Debug\Cub.WebUI.dll
+d:\user\мои документы\visual studio 2013\Projects\SolutionCub\Cub.WebUI\obj\Debug\Cub.WebUI.pdb
+C:\Users\Sid\Desktop\SolutionCub-Work\Cub.WebUI\bin\Cub.WebUI.dll.config
+C:\Users\Sid\Desktop\SolutionCub-Work\Cub.WebUI\bin\Cub.WebUI.dll
+C:\Users\Sid\Desktop\SolutionCub-Work\Cub.WebUI\bin\Cub.WebUI.pdb
+C:\Users\Sid\Desktop\SolutionCub-Work\Cub.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sid\Desktop\SolutionCub-Work\Cub.WebUI\bin\System.Web.Helpers.dll
+C:\Users\Sid\Desktop\SolutionCub-Work\Cub.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Sid\Desktop\SolutionCub-Work\Cub.WebUI\bin\System.Web.Razor.dll
+C:\Users\Sid\Desktop\SolutionCub-Work\Cub.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Sid\Desktop\SolutionCub-Work\Cub.WebUI\bin\System.Web.Webpages.dll
+C:\Users\Sid\Desktop\SolutionCub-Work\Cub.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\Sid\Desktop\SolutionCub-Work\Cub.WebUI\bin\System.Web.Razor.xml
+C:\Users\Sid\Desktop\SolutionCub-Work\Cub.WebUI\bin\System.Web.Webpages.xml
+C:\Users\Sid\Desktop\SolutionCub-Work\Cub.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Sid\Desktop\SolutionCub-Work\Cub.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\Sid\Desktop\SolutionCub-Work\Cub.WebUI\bin\System.Web.Helpers.xml
+C:\Users\Sid\Desktop\SolutionCub-Work\Cub.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Sid\Desktop\SolutionCub-Work\Cub.WebUI\obj\Debug\Cub.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Sid\Desktop\SolutionCub-Work\Cub.WebUI\obj\Debug\Cub.WebUI.dll
+C:\Users\Sid\Desktop\SolutionCub-Work\Cub.WebUI\obj\Debug\Cub.WebUI.pdb
+C:\Users\Maria\Desktop\SolutionCub-23.05.2016\Cub.WebUI\bin\Cub.WebUI.dll.config
+C:\Users\Maria\Desktop\SolutionCub-23.05.2016\Cub.WebUI\bin\Cub.WebUI.dll
+C:\Users\Maria\Desktop\SolutionCub-23.05.2016\Cub.WebUI\bin\Cub.WebUI.pdb
+C:\Users\Maria\Desktop\SolutionCub-23.05.2016\Cub.WebUI\bin\Cub.Domian.dll
+C:\Users\Maria\Desktop\SolutionCub-23.05.2016\Cub.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Maria\Desktop\SolutionCub-23.05.2016\Cub.WebUI\bin\Moq.dll
+C:\Users\Maria\Desktop\SolutionCub-23.05.2016\Cub.WebUI\bin\Ninject.dll
+C:\Users\Maria\Desktop\SolutionCub-23.05.2016\Cub.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\Maria\Desktop\SolutionCub-23.05.2016\Cub.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\Maria\Desktop\SolutionCub-23.05.2016\Cub.WebUI\bin\System.Web.Helpers.dll
+C:\Users\Maria\Desktop\SolutionCub-23.05.2016\Cub.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Maria\Desktop\SolutionCub-23.05.2016\Cub.WebUI\bin\System.Web.Razor.dll
+C:\Users\Maria\Desktop\SolutionCub-23.05.2016\Cub.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Maria\Desktop\SolutionCub-23.05.2016\Cub.WebUI\bin\System.Web.Webpages.dll
+C:\Users\Maria\Desktop\SolutionCub-23.05.2016\Cub.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\Maria\Desktop\SolutionCub-23.05.2016\Cub.WebUI\bin\WebActivatorEx.dll
+C:\Users\Maria\Desktop\SolutionCub-23.05.2016\Cub.WebUI\bin\Cub.Domian.pdb
+C:\Users\Maria\Desktop\SolutionCub-23.05.2016\Cub.WebUI\bin\Moq.xml
+C:\Users\Maria\Desktop\SolutionCub-23.05.2016\Cub.WebUI\bin\Ninject.xml
+C:\Users\Maria\Desktop\SolutionCub-23.05.2016\Cub.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\Maria\Desktop\SolutionCub-23.05.2016\Cub.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\Maria\Desktop\SolutionCub-23.05.2016\Cub.WebUI\bin\System.Web.Razor.xml
+C:\Users\Maria\Desktop\SolutionCub-23.05.2016\Cub.WebUI\bin\System.Web.Webpages.xml
+C:\Users\Maria\Desktop\SolutionCub-23.05.2016\Cub.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Maria\Desktop\SolutionCub-23.05.2016\Cub.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\Maria\Desktop\SolutionCub-23.05.2016\Cub.WebUI\bin\System.Web.Helpers.xml
+C:\Users\Maria\Desktop\SolutionCub-23.05.2016\Cub.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Maria\Desktop\SolutionCub-23.05.2016\Cub.WebUI\obj\Debug\Cub.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Desktop\SolutionCub-23.05.2016\Cub.WebUI\obj\Debug\Cub.WebUI.dll
+C:\Users\Maria\Desktop\SolutionCub-23.05.2016\Cub.WebUI\obj\Debug\Cub.WebUI.pdb
+C:\Users\Maria\Desktop\SolutionCub-24.05.2016ch2\Cub.WebUI\bin\Cub.WebUI.dll.config
+C:\Users\Maria\Desktop\SolutionCub-24.05.2016ch2\Cub.WebUI\bin\Cub.WebUI.dll
+C:\Users\Maria\Desktop\SolutionCub-24.05.2016ch2\Cub.WebUI\bin\Cub.WebUI.pdb
+C:\Users\Maria\Desktop\SolutionCub-24.05.2016ch2\Cub.WebUI\bin\Cub.Domian.dll
+C:\Users\Maria\Desktop\SolutionCub-24.05.2016ch2\Cub.WebUI\bin\EntityFramework.dll
+C:\Users\Maria\Desktop\SolutionCub-24.05.2016ch2\Cub.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Maria\Desktop\SolutionCub-24.05.2016ch2\Cub.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Maria\Desktop\SolutionCub-24.05.2016ch2\Cub.WebUI\bin\Moq.dll
+C:\Users\Maria\Desktop\SolutionCub-24.05.2016ch2\Cub.WebUI\bin\Ninject.dll
+C:\Users\Maria\Desktop\SolutionCub-24.05.2016ch2\Cub.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\Maria\Desktop\SolutionCub-24.05.2016ch2\Cub.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\Maria\Desktop\SolutionCub-24.05.2016ch2\Cub.WebUI\bin\System.Web.Helpers.dll
+C:\Users\Maria\Desktop\SolutionCub-24.05.2016ch2\Cub.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Maria\Desktop\SolutionCub-24.05.2016ch2\Cub.WebUI\bin\System.Web.Razor.dll
+C:\Users\Maria\Desktop\SolutionCub-24.05.2016ch2\Cub.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Maria\Desktop\SolutionCub-24.05.2016ch2\Cub.WebUI\bin\System.Web.Webpages.dll
+C:\Users\Maria\Desktop\SolutionCub-24.05.2016ch2\Cub.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\Maria\Desktop\SolutionCub-24.05.2016ch2\Cub.WebUI\bin\Cub.Domian.pdb
+C:\Users\Maria\Desktop\SolutionCub-24.05.2016ch2\Cub.WebUI\bin\EntityFramework.xml
+C:\Users\Maria\Desktop\SolutionCub-24.05.2016ch2\Cub.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Maria\Desktop\SolutionCub-24.05.2016ch2\Cub.WebUI\bin\Moq.xml
+C:\Users\Maria\Desktop\SolutionCub-24.05.2016ch2\Cub.WebUI\bin\Ninject.xml
+C:\Users\Maria\Desktop\SolutionCub-24.05.2016ch2\Cub.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\Maria\Desktop\SolutionCub-24.05.2016ch2\Cub.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\Maria\Desktop\SolutionCub-24.05.2016ch2\Cub.WebUI\bin\System.Web.Razor.xml
+C:\Users\Maria\Desktop\SolutionCub-24.05.2016ch2\Cub.WebUI\bin\System.Web.Webpages.xml
+C:\Users\Maria\Desktop\SolutionCub-24.05.2016ch2\Cub.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Maria\Desktop\SolutionCub-24.05.2016ch2\Cub.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\Maria\Desktop\SolutionCub-24.05.2016ch2\Cub.WebUI\bin\System.Web.Helpers.xml
+C:\Users\Maria\Desktop\SolutionCub-24.05.2016ch2\Cub.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Maria\Desktop\SolutionCub-24.05.2016ch2\Cub.WebUI\obj\Debug\Cub.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Desktop\SolutionCub-24.05.2016ch2\Cub.WebUI\obj\Debug\Cub.WebUI.dll
+C:\Users\Maria\Desktop\SolutionCub-24.05.2016ch2\Cub.WebUI\obj\Debug\Cub.WebUI.pdb
+C:\Users\SID\Desktop\SolutionCub-25.05.2016ch1\Cub.WebUI\bin\Cub.WebUI.dll.config
+C:\Users\SID\Desktop\SolutionCub-25.05.2016ch1\Cub.WebUI\bin\Cub.WebUI.dll
+C:\Users\SID\Desktop\SolutionCub-25.05.2016ch1\Cub.WebUI\bin\Cub.WebUI.pdb
+C:\Users\SID\Desktop\SolutionCub-25.05.2016ch1\Cub.WebUI\bin\Cub.Domian.dll
+C:\Users\SID\Desktop\SolutionCub-25.05.2016ch1\Cub.WebUI\bin\EntityFramework.dll
+C:\Users\SID\Desktop\SolutionCub-25.05.2016ch1\Cub.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\SID\Desktop\SolutionCub-25.05.2016ch1\Cub.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SID\Desktop\SolutionCub-25.05.2016ch1\Cub.WebUI\bin\Moq.dll
+C:\Users\SID\Desktop\SolutionCub-25.05.2016ch1\Cub.WebUI\bin\Ninject.dll
+C:\Users\SID\Desktop\SolutionCub-25.05.2016ch1\Cub.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\SID\Desktop\SolutionCub-25.05.2016ch1\Cub.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\SID\Desktop\SolutionCub-25.05.2016ch1\Cub.WebUI\bin\System.Web.Helpers.dll
+C:\Users\SID\Desktop\SolutionCub-25.05.2016ch1\Cub.WebUI\bin\System.Web.Mvc.dll
+C:\Users\SID\Desktop\SolutionCub-25.05.2016ch1\Cub.WebUI\bin\System.Web.Razor.dll
+C:\Users\SID\Desktop\SolutionCub-25.05.2016ch1\Cub.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\SID\Desktop\SolutionCub-25.05.2016ch1\Cub.WebUI\bin\System.Web.Webpages.dll
+C:\Users\SID\Desktop\SolutionCub-25.05.2016ch1\Cub.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\SID\Desktop\SolutionCub-25.05.2016ch1\Cub.WebUI\bin\Cub.Domian.pdb
+C:\Users\SID\Desktop\SolutionCub-25.05.2016ch1\Cub.WebUI\bin\EntityFramework.xml
+C:\Users\SID\Desktop\SolutionCub-25.05.2016ch1\Cub.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\SID\Desktop\SolutionCub-25.05.2016ch1\Cub.WebUI\bin\Moq.xml
+C:\Users\SID\Desktop\SolutionCub-25.05.2016ch1\Cub.WebUI\bin\Ninject.xml
+C:\Users\SID\Desktop\SolutionCub-25.05.2016ch1\Cub.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\SID\Desktop\SolutionCub-25.05.2016ch1\Cub.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\SID\Desktop\SolutionCub-25.05.2016ch1\Cub.WebUI\bin\System.Web.Razor.xml
+C:\Users\SID\Desktop\SolutionCub-25.05.2016ch1\Cub.WebUI\bin\System.Web.Webpages.xml
+C:\Users\SID\Desktop\SolutionCub-25.05.2016ch1\Cub.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\SID\Desktop\SolutionCub-25.05.2016ch1\Cub.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\SID\Desktop\SolutionCub-25.05.2016ch1\Cub.WebUI\bin\System.Web.Helpers.xml
+C:\Users\SID\Desktop\SolutionCub-25.05.2016ch1\Cub.WebUI\bin\System.Web.Mvc.xml
+C:\Users\SID\Desktop\SolutionCub-25.05.2016ch1\Cub.WebUI\obj\Debug\Cub.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\SID\Desktop\SolutionCub-25.05.2016ch1\Cub.WebUI\obj\Debug\Cub.WebUI.dll
+C:\Users\SID\Desktop\SolutionCub-25.05.2016ch1\Cub.WebUI\obj\Debug\Cub.WebUI.pdb
+C:\Users\SID\Desktop\SolutionCub-26.05.2016\Cub.WebUI\bin\Cub.WebUI.dll.config
+C:\Users\SID\Desktop\SolutionCub-26.05.2016\Cub.WebUI\bin\Cub.WebUI.dll
+C:\Users\SID\Desktop\SolutionCub-26.05.2016\Cub.WebUI\bin\Cub.WebUI.pdb
+C:\Users\SID\Desktop\SolutionCub-26.05.2016\Cub.WebUI\bin\Cub.Domian.dll
+C:\Users\SID\Desktop\SolutionCub-26.05.2016\Cub.WebUI\bin\EntityFramework.dll
+C:\Users\SID\Desktop\SolutionCub-26.05.2016\Cub.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\SID\Desktop\SolutionCub-26.05.2016\Cub.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SID\Desktop\SolutionCub-26.05.2016\Cub.WebUI\bin\Moq.dll
+C:\Users\SID\Desktop\SolutionCub-26.05.2016\Cub.WebUI\bin\Ninject.dll
+C:\Users\SID\Desktop\SolutionCub-26.05.2016\Cub.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\SID\Desktop\SolutionCub-26.05.2016\Cub.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\SID\Desktop\SolutionCub-26.05.2016\Cub.WebUI\bin\System.Web.Helpers.dll
+C:\Users\SID\Desktop\SolutionCub-26.05.2016\Cub.WebUI\bin\System.Web.Mvc.dll
+C:\Users\SID\Desktop\SolutionCub-26.05.2016\Cub.WebUI\bin\System.Web.Razor.dll
+C:\Users\SID\Desktop\SolutionCub-26.05.2016\Cub.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\SID\Desktop\SolutionCub-26.05.2016\Cub.WebUI\bin\System.Web.Webpages.dll
+C:\Users\SID\Desktop\SolutionCub-26.05.2016\Cub.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\SID\Desktop\SolutionCub-26.05.2016\Cub.WebUI\bin\Cub.Domian.pdb
+C:\Users\SID\Desktop\SolutionCub-26.05.2016\Cub.WebUI\bin\EntityFramework.xml
+C:\Users\SID\Desktop\SolutionCub-26.05.2016\Cub.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\SID\Desktop\SolutionCub-26.05.2016\Cub.WebUI\bin\Moq.xml
+C:\Users\SID\Desktop\SolutionCub-26.05.2016\Cub.WebUI\bin\Ninject.xml
+C:\Users\SID\Desktop\SolutionCub-26.05.2016\Cub.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\SID\Desktop\SolutionCub-26.05.2016\Cub.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\SID\Desktop\SolutionCub-26.05.2016\Cub.WebUI\bin\System.Web.Razor.xml
+C:\Users\SID\Desktop\SolutionCub-26.05.2016\Cub.WebUI\bin\System.Web.Webpages.xml
+C:\Users\SID\Desktop\SolutionCub-26.05.2016\Cub.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\SID\Desktop\SolutionCub-26.05.2016\Cub.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\SID\Desktop\SolutionCub-26.05.2016\Cub.WebUI\bin\System.Web.Helpers.xml
+C:\Users\SID\Desktop\SolutionCub-26.05.2016\Cub.WebUI\bin\System.Web.Mvc.xml
+C:\Users\SID\Desktop\SolutionCub-26.05.2016\Cub.WebUI\obj\Debug\Cub.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\SID\Desktop\SolutionCub-26.05.2016\Cub.WebUI\obj\Debug\Cub.WebUI.dll
+C:\Users\SID\Desktop\SolutionCub-26.05.2016\Cub.WebUI\obj\Debug\Cub.WebUI.pdb
+C:\Users\SID\Desktop\SolutionCub-01.06.2016\Cub.WebUI\bin\Cub.WebUI.dll.config
+C:\Users\SID\Desktop\SolutionCub-01.06.2016\Cub.WebUI\bin\Cub.WebUI.dll
+C:\Users\SID\Desktop\SolutionCub-01.06.2016\Cub.WebUI\bin\Cub.WebUI.pdb
+C:\Users\SID\Desktop\SolutionCub-01.06.2016\Cub.WebUI\bin\Cub.Domian.dll
+C:\Users\SID\Desktop\SolutionCub-01.06.2016\Cub.WebUI\bin\EntityFramework.dll
+C:\Users\SID\Desktop\SolutionCub-01.06.2016\Cub.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\SID\Desktop\SolutionCub-01.06.2016\Cub.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SID\Desktop\SolutionCub-01.06.2016\Cub.WebUI\bin\Moq.dll
+C:\Users\SID\Desktop\SolutionCub-01.06.2016\Cub.WebUI\bin\Ninject.dll
+C:\Users\SID\Desktop\SolutionCub-01.06.2016\Cub.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\SID\Desktop\SolutionCub-01.06.2016\Cub.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\SID\Desktop\SolutionCub-01.06.2016\Cub.WebUI\bin\System.Web.Helpers.dll
+C:\Users\SID\Desktop\SolutionCub-01.06.2016\Cub.WebUI\bin\System.Web.Mvc.dll
+C:\Users\SID\Desktop\SolutionCub-01.06.2016\Cub.WebUI\bin\System.Web.Razor.dll
+C:\Users\SID\Desktop\SolutionCub-01.06.2016\Cub.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\SID\Desktop\SolutionCub-01.06.2016\Cub.WebUI\bin\System.Web.Webpages.dll
+C:\Users\SID\Desktop\SolutionCub-01.06.2016\Cub.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\SID\Desktop\SolutionCub-01.06.2016\Cub.WebUI\bin\Cub.Domian.pdb
+C:\Users\SID\Desktop\SolutionCub-01.06.2016\Cub.WebUI\bin\EntityFramework.xml
+C:\Users\SID\Desktop\SolutionCub-01.06.2016\Cub.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\SID\Desktop\SolutionCub-01.06.2016\Cub.WebUI\bin\Moq.xml
+C:\Users\SID\Desktop\SolutionCub-01.06.2016\Cub.WebUI\bin\Ninject.xml
+C:\Users\SID\Desktop\SolutionCub-01.06.2016\Cub.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\SID\Desktop\SolutionCub-01.06.2016\Cub.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\SID\Desktop\SolutionCub-01.06.2016\Cub.WebUI\bin\System.Web.Razor.xml
+C:\Users\SID\Desktop\SolutionCub-01.06.2016\Cub.WebUI\bin\System.Web.Webpages.xml
+C:\Users\SID\Desktop\SolutionCub-01.06.2016\Cub.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\SID\Desktop\SolutionCub-01.06.2016\Cub.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\SID\Desktop\SolutionCub-01.06.2016\Cub.WebUI\bin\System.Web.Helpers.xml
+C:\Users\SID\Desktop\SolutionCub-01.06.2016\Cub.WebUI\bin\System.Web.Mvc.xml
+C:\Users\SID\Desktop\SolutionCub-01.06.2016\Cub.WebUI\obj\Debug\Cub.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\SID\Desktop\SolutionCub-01.06.2016\Cub.WebUI\obj\Debug\Cub.WebUI.dll
+C:\Users\SID\Desktop\SolutionCub-01.06.2016\Cub.WebUI\obj\Debug\Cub.WebUI.pdb
+C:\Users\SID\Desktop\SolutionCub-01.06.2016\Cub.WebUI\bin\Castle.Core.dll
+C:\Users\SID\Desktop\SolutionCub-01.06.2016\Cub.WebUI\bin\System.Web.Providers.dll
+C:\Users\SID\Desktop\SolutionCub-01.06.2016\Cub.WebUI\bin\Castle.Core.xml
+C:\Users\SID\Desktop\SolutionCub-01.06.2016\Cub.WebUI\bin\System.Web.Providers.xml
+C:\Users\Maria\Desktop\SolutionCub-05.06.2016\SolutionCub-05.06.2016\Cub.WebUI\bin\Cub.WebUI.dll.config
+C:\Users\Maria\Desktop\SolutionCub-05.06.2016\SolutionCub-05.06.2016\Cub.WebUI\bin\Cub.WebUI.dll
+C:\Users\Maria\Desktop\SolutionCub-05.06.2016\SolutionCub-05.06.2016\Cub.WebUI\bin\Cub.WebUI.pdb
+C:\Users\Maria\Desktop\SolutionCub-05.06.2016\SolutionCub-05.06.2016\Cub.WebUI\bin\Castle.Core.dll
+C:\Users\Maria\Desktop\SolutionCub-05.06.2016\SolutionCub-05.06.2016\Cub.WebUI\bin\Cub.Domian.dll
+C:\Users\Maria\Desktop\SolutionCub-05.06.2016\SolutionCub-05.06.2016\Cub.WebUI\bin\EntityFramework.dll
+C:\Users\Maria\Desktop\SolutionCub-05.06.2016\SolutionCub-05.06.2016\Cub.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Maria\Desktop\SolutionCub-05.06.2016\SolutionCub-05.06.2016\Cub.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Maria\Desktop\SolutionCub-05.06.2016\SolutionCub-05.06.2016\Cub.WebUI\bin\Moq.dll
+C:\Users\Maria\Desktop\SolutionCub-05.06.2016\SolutionCub-05.06.2016\Cub.WebUI\bin\Ninject.dll
+C:\Users\Maria\Desktop\SolutionCub-05.06.2016\SolutionCub-05.06.2016\Cub.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\Maria\Desktop\SolutionCub-05.06.2016\SolutionCub-05.06.2016\Cub.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\Maria\Desktop\SolutionCub-05.06.2016\SolutionCub-05.06.2016\Cub.WebUI\bin\System.Web.Helpers.dll
+C:\Users\Maria\Desktop\SolutionCub-05.06.2016\SolutionCub-05.06.2016\Cub.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Maria\Desktop\SolutionCub-05.06.2016\SolutionCub-05.06.2016\Cub.WebUI\bin\System.Web.Providers.dll
+C:\Users\Maria\Desktop\SolutionCub-05.06.2016\SolutionCub-05.06.2016\Cub.WebUI\bin\System.Web.Razor.dll
+C:\Users\Maria\Desktop\SolutionCub-05.06.2016\SolutionCub-05.06.2016\Cub.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Maria\Desktop\SolutionCub-05.06.2016\SolutionCub-05.06.2016\Cub.WebUI\bin\System.Web.Webpages.dll
+C:\Users\Maria\Desktop\SolutionCub-05.06.2016\SolutionCub-05.06.2016\Cub.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\Maria\Desktop\SolutionCub-05.06.2016\SolutionCub-05.06.2016\Cub.WebUI\bin\Cub.Domian.pdb
+C:\Users\Maria\Desktop\SolutionCub-05.06.2016\SolutionCub-05.06.2016\Cub.WebUI\bin\Castle.Core.xml
+C:\Users\Maria\Desktop\SolutionCub-05.06.2016\SolutionCub-05.06.2016\Cub.WebUI\bin\EntityFramework.xml
+C:\Users\Maria\Desktop\SolutionCub-05.06.2016\SolutionCub-05.06.2016\Cub.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Maria\Desktop\SolutionCub-05.06.2016\SolutionCub-05.06.2016\Cub.WebUI\bin\Moq.xml
+C:\Users\Maria\Desktop\SolutionCub-05.06.2016\SolutionCub-05.06.2016\Cub.WebUI\bin\Ninject.xml
+C:\Users\Maria\Desktop\SolutionCub-05.06.2016\SolutionCub-05.06.2016\Cub.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\Maria\Desktop\SolutionCub-05.06.2016\SolutionCub-05.06.2016\Cub.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\Maria\Desktop\SolutionCub-05.06.2016\SolutionCub-05.06.2016\Cub.WebUI\bin\System.Web.Providers.xml
+C:\Users\Maria\Desktop\SolutionCub-05.06.2016\SolutionCub-05.06.2016\Cub.WebUI\bin\System.Web.Razor.xml
+C:\Users\Maria\Desktop\SolutionCub-05.06.2016\SolutionCub-05.06.2016\Cub.WebUI\bin\System.Web.Webpages.xml
+C:\Users\Maria\Desktop\SolutionCub-05.06.2016\SolutionCub-05.06.2016\Cub.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Maria\Desktop\SolutionCub-05.06.2016\SolutionCub-05.06.2016\Cub.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\Maria\Desktop\SolutionCub-05.06.2016\SolutionCub-05.06.2016\Cub.WebUI\bin\System.Web.Helpers.xml
+C:\Users\Maria\Desktop\SolutionCub-05.06.2016\SolutionCub-05.06.2016\Cub.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Maria\Desktop\SolutionCub-05.06.2016\SolutionCub-05.06.2016\Cub.WebUI\obj\Debug\Cub.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Desktop\SolutionCub-05.06.2016\SolutionCub-05.06.2016\Cub.WebUI\obj\Debug\Cub.WebUI.dll
+C:\Users\Maria\Desktop\SolutionCub-05.06.2016\SolutionCub-05.06.2016\Cub.WebUI\obj\Debug\Cub.WebUI.pdb
+C:\Users\SID\Desktop\SolutionCub-10.06.2016\Cub.WebUI\bin\Cub.WebUI.dll.config
+C:\Users\SID\Desktop\SolutionCub-10.06.2016\Cub.WebUI\bin\Cub.WebUI.dll
+C:\Users\SID\Desktop\SolutionCub-10.06.2016\Cub.WebUI\bin\Cub.WebUI.pdb
+C:\Users\SID\Desktop\SolutionCub-10.06.2016\Cub.WebUI\bin\Castle.Core.dll
+C:\Users\SID\Desktop\SolutionCub-10.06.2016\Cub.WebUI\bin\Cub.Domian.dll
+C:\Users\SID\Desktop\SolutionCub-10.06.2016\Cub.WebUI\bin\EntityFramework.dll
+C:\Users\SID\Desktop\SolutionCub-10.06.2016\Cub.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\SID\Desktop\SolutionCub-10.06.2016\Cub.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SID\Desktop\SolutionCub-10.06.2016\Cub.WebUI\bin\Moq.dll
+C:\Users\SID\Desktop\SolutionCub-10.06.2016\Cub.WebUI\bin\Ninject.dll
+C:\Users\SID\Desktop\SolutionCub-10.06.2016\Cub.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\SID\Desktop\SolutionCub-10.06.2016\Cub.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\SID\Desktop\SolutionCub-10.06.2016\Cub.WebUI\bin\System.Web.Helpers.dll
+C:\Users\SID\Desktop\SolutionCub-10.06.2016\Cub.WebUI\bin\System.Web.Mvc.dll
+C:\Users\SID\Desktop\SolutionCub-10.06.2016\Cub.WebUI\bin\System.Web.Providers.dll
+C:\Users\SID\Desktop\SolutionCub-10.06.2016\Cub.WebUI\bin\System.Web.Razor.dll
+C:\Users\SID\Desktop\SolutionCub-10.06.2016\Cub.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\SID\Desktop\SolutionCub-10.06.2016\Cub.WebUI\bin\System.Web.Webpages.dll
+C:\Users\SID\Desktop\SolutionCub-10.06.2016\Cub.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\SID\Desktop\SolutionCub-10.06.2016\Cub.WebUI\bin\Cub.Domian.pdb
+C:\Users\SID\Desktop\SolutionCub-10.06.2016\Cub.WebUI\bin\Castle.Core.xml
+C:\Users\SID\Desktop\SolutionCub-10.06.2016\Cub.WebUI\bin\EntityFramework.xml
+C:\Users\SID\Desktop\SolutionCub-10.06.2016\Cub.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\SID\Desktop\SolutionCub-10.06.2016\Cub.WebUI\bin\Moq.xml
+C:\Users\SID\Desktop\SolutionCub-10.06.2016\Cub.WebUI\bin\Ninject.xml
+C:\Users\SID\Desktop\SolutionCub-10.06.2016\Cub.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\SID\Desktop\SolutionCub-10.06.2016\Cub.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\SID\Desktop\SolutionCub-10.06.2016\Cub.WebUI\bin\System.Web.Providers.xml
+C:\Users\SID\Desktop\SolutionCub-10.06.2016\Cub.WebUI\bin\System.Web.Razor.xml
+C:\Users\SID\Desktop\SolutionCub-10.06.2016\Cub.WebUI\bin\System.Web.Webpages.xml
+C:\Users\SID\Desktop\SolutionCub-10.06.2016\Cub.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\SID\Desktop\SolutionCub-10.06.2016\Cub.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\SID\Desktop\SolutionCub-10.06.2016\Cub.WebUI\bin\System.Web.Helpers.xml
+C:\Users\SID\Desktop\SolutionCub-10.06.2016\Cub.WebUI\bin\System.Web.Mvc.xml
+C:\Users\SID\Desktop\SolutionCub-10.06.2016\Cub.WebUI\obj\Debug\Cub.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\SID\Desktop\SolutionCub-10.06.2016\Cub.WebUI\obj\Debug\Cub.WebUI.dll
+C:\Users\SID\Desktop\SolutionCub-10.06.2016\Cub.WebUI\obj\Debug\Cub.WebUI.pdb
+C:\Users\SID\Desktop\SolutionCub-11.06.2016\Cub.WebUI\bin\Cub.WebUI.dll.config
+C:\Users\SID\Desktop\SolutionCub-11.06.2016\Cub.WebUI\bin\Cub.WebUI.dll
+C:\Users\SID\Desktop\SolutionCub-11.06.2016\Cub.WebUI\bin\Cub.WebUI.pdb
+C:\Users\SID\Desktop\SolutionCub-11.06.2016\Cub.WebUI\bin\Castle.Core.dll
+C:\Users\SID\Desktop\SolutionCub-11.06.2016\Cub.WebUI\bin\Cub.Domian.dll
+C:\Users\SID\Desktop\SolutionCub-11.06.2016\Cub.WebUI\bin\EntityFramework.dll
+C:\Users\SID\Desktop\SolutionCub-11.06.2016\Cub.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\SID\Desktop\SolutionCub-11.06.2016\Cub.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SID\Desktop\SolutionCub-11.06.2016\Cub.WebUI\bin\Moq.dll
+C:\Users\SID\Desktop\SolutionCub-11.06.2016\Cub.WebUI\bin\Ninject.dll
+C:\Users\SID\Desktop\SolutionCub-11.06.2016\Cub.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\SID\Desktop\SolutionCub-11.06.2016\Cub.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\SID\Desktop\SolutionCub-11.06.2016\Cub.WebUI\bin\System.Web.Helpers.dll
+C:\Users\SID\Desktop\SolutionCub-11.06.2016\Cub.WebUI\bin\System.Web.Mvc.dll
+C:\Users\SID\Desktop\SolutionCub-11.06.2016\Cub.WebUI\bin\System.Web.Providers.dll
+C:\Users\SID\Desktop\SolutionCub-11.06.2016\Cub.WebUI\bin\System.Web.Razor.dll
+C:\Users\SID\Desktop\SolutionCub-11.06.2016\Cub.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\SID\Desktop\SolutionCub-11.06.2016\Cub.WebUI\bin\System.Web.Webpages.dll
+C:\Users\SID\Desktop\SolutionCub-11.06.2016\Cub.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\SID\Desktop\SolutionCub-11.06.2016\Cub.WebUI\bin\Cub.Domian.pdb
+C:\Users\SID\Desktop\SolutionCub-11.06.2016\Cub.WebUI\bin\Castle.Core.xml
+C:\Users\SID\Desktop\SolutionCub-11.06.2016\Cub.WebUI\bin\EntityFramework.xml
+C:\Users\SID\Desktop\SolutionCub-11.06.2016\Cub.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\SID\Desktop\SolutionCub-11.06.2016\Cub.WebUI\bin\Moq.xml
+C:\Users\SID\Desktop\SolutionCub-11.06.2016\Cub.WebUI\bin\Ninject.xml
+C:\Users\SID\Desktop\SolutionCub-11.06.2016\Cub.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\SID\Desktop\SolutionCub-11.06.2016\Cub.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\SID\Desktop\SolutionCub-11.06.2016\Cub.WebUI\bin\System.Web.Providers.xml
+C:\Users\SID\Desktop\SolutionCub-11.06.2016\Cub.WebUI\bin\System.Web.Razor.xml
+C:\Users\SID\Desktop\SolutionCub-11.06.2016\Cub.WebUI\bin\System.Web.Webpages.xml
+C:\Users\SID\Desktop\SolutionCub-11.06.2016\Cub.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\SID\Desktop\SolutionCub-11.06.2016\Cub.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\SID\Desktop\SolutionCub-11.06.2016\Cub.WebUI\bin\System.Web.Helpers.xml
+C:\Users\SID\Desktop\SolutionCub-11.06.2016\Cub.WebUI\bin\System.Web.Mvc.xml
+C:\Users\SID\Desktop\SolutionCub-11.06.2016\Cub.WebUI\obj\Debug\Cub.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\SID\Desktop\SolutionCub-11.06.2016\Cub.WebUI\obj\Debug\Cub.WebUI.dll
+C:\Users\SID\Desktop\SolutionCub-11.06.2016\Cub.WebUI\obj\Debug\Cub.WebUI.pdb
+C:\Users\SID\Desktop\SolutionCub-13.06.2016\Cub.WebUI\bin\Cub.WebUI.dll.config
+C:\Users\SID\Desktop\SolutionCub-13.06.2016\Cub.WebUI\bin\Cub.WebUI.dll
+C:\Users\SID\Desktop\SolutionCub-13.06.2016\Cub.WebUI\bin\Cub.WebUI.pdb
+C:\Users\SID\Desktop\SolutionCub-13.06.2016\Cub.WebUI\bin\Castle.Core.dll
+C:\Users\SID\Desktop\SolutionCub-13.06.2016\Cub.WebUI\bin\Cub.Domian.dll
+C:\Users\SID\Desktop\SolutionCub-13.06.2016\Cub.WebUI\bin\EntityFramework.dll
+C:\Users\SID\Desktop\SolutionCub-13.06.2016\Cub.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\SID\Desktop\SolutionCub-13.06.2016\Cub.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SID\Desktop\SolutionCub-13.06.2016\Cub.WebUI\bin\Moq.dll
+C:\Users\SID\Desktop\SolutionCub-13.06.2016\Cub.WebUI\bin\Ninject.dll
+C:\Users\SID\Desktop\SolutionCub-13.06.2016\Cub.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\SID\Desktop\SolutionCub-13.06.2016\Cub.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\SID\Desktop\SolutionCub-13.06.2016\Cub.WebUI\bin\System.Web.Helpers.dll
+C:\Users\SID\Desktop\SolutionCub-13.06.2016\Cub.WebUI\bin\System.Web.Mvc.dll
+C:\Users\SID\Desktop\SolutionCub-13.06.2016\Cub.WebUI\bin\System.Web.Providers.dll
+C:\Users\SID\Desktop\SolutionCub-13.06.2016\Cub.WebUI\bin\System.Web.Razor.dll
+C:\Users\SID\Desktop\SolutionCub-13.06.2016\Cub.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\SID\Desktop\SolutionCub-13.06.2016\Cub.WebUI\bin\System.Web.Webpages.dll
+C:\Users\SID\Desktop\SolutionCub-13.06.2016\Cub.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\SID\Desktop\SolutionCub-13.06.2016\Cub.WebUI\bin\Cub.Domian.pdb
+C:\Users\SID\Desktop\SolutionCub-13.06.2016\Cub.WebUI\bin\Castle.Core.xml
+C:\Users\SID\Desktop\SolutionCub-13.06.2016\Cub.WebUI\bin\EntityFramework.xml
+C:\Users\SID\Desktop\SolutionCub-13.06.2016\Cub.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\SID\Desktop\SolutionCub-13.06.2016\Cub.WebUI\bin\Moq.xml
+C:\Users\SID\Desktop\SolutionCub-13.06.2016\Cub.WebUI\bin\Ninject.xml
+C:\Users\SID\Desktop\SolutionCub-13.06.2016\Cub.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\SID\Desktop\SolutionCub-13.06.2016\Cub.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\SID\Desktop\SolutionCub-13.06.2016\Cub.WebUI\bin\System.Web.Providers.xml
+C:\Users\SID\Desktop\SolutionCub-13.06.2016\Cub.WebUI\bin\System.Web.Razor.xml
+C:\Users\SID\Desktop\SolutionCub-13.06.2016\Cub.WebUI\bin\System.Web.Webpages.xml
+C:\Users\SID\Desktop\SolutionCub-13.06.2016\Cub.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\SID\Desktop\SolutionCub-13.06.2016\Cub.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\SID\Desktop\SolutionCub-13.06.2016\Cub.WebUI\bin\System.Web.Helpers.xml
+C:\Users\SID\Desktop\SolutionCub-13.06.2016\Cub.WebUI\bin\System.Web.Mvc.xml
+C:\Users\SID\Desktop\SolutionCub-13.06.2016\Cub.WebUI\obj\Debug\Cub.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\SID\Desktop\SolutionCub-13.06.2016\Cub.WebUI\obj\Debug\Cub.WebUI.dll
+C:\Users\SID\Desktop\SolutionCub-13.06.2016\Cub.WebUI\obj\Debug\Cub.WebUI.pdb
+C:\Users\SID\Desktop\SolutionCub-16.06.2016\Cub.WebUI\bin\Cub.WebUI.dll.config
+C:\Users\SID\Desktop\SolutionCub-16.06.2016\Cub.WebUI\bin\Cub.WebUI.dll
+C:\Users\SID\Desktop\SolutionCub-16.06.2016\Cub.WebUI\bin\Cub.WebUI.pdb
+C:\Users\SID\Desktop\SolutionCub-16.06.2016\Cub.WebUI\bin\Castle.Core.dll
+C:\Users\SID\Desktop\SolutionCub-16.06.2016\Cub.WebUI\bin\Cub.Domian.dll
+C:\Users\SID\Desktop\SolutionCub-16.06.2016\Cub.WebUI\bin\EntityFramework.dll
+C:\Users\SID\Desktop\SolutionCub-16.06.2016\Cub.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\SID\Desktop\SolutionCub-16.06.2016\Cub.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SID\Desktop\SolutionCub-16.06.2016\Cub.WebUI\bin\Moq.dll
+C:\Users\SID\Desktop\SolutionCub-16.06.2016\Cub.WebUI\bin\Ninject.dll
+C:\Users\SID\Desktop\SolutionCub-16.06.2016\Cub.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\SID\Desktop\SolutionCub-16.06.2016\Cub.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\SID\Desktop\SolutionCub-16.06.2016\Cub.WebUI\bin\System.Web.Helpers.dll
+C:\Users\SID\Desktop\SolutionCub-16.06.2016\Cub.WebUI\bin\System.Web.Mvc.dll
+C:\Users\SID\Desktop\SolutionCub-16.06.2016\Cub.WebUI\bin\System.Web.Providers.dll
+C:\Users\SID\Desktop\SolutionCub-16.06.2016\Cub.WebUI\bin\System.Web.Razor.dll
+C:\Users\SID\Desktop\SolutionCub-16.06.2016\Cub.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\SID\Desktop\SolutionCub-16.06.2016\Cub.WebUI\bin\System.Web.Webpages.dll
+C:\Users\SID\Desktop\SolutionCub-16.06.2016\Cub.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\SID\Desktop\SolutionCub-16.06.2016\Cub.WebUI\bin\Cub.Domian.pdb
+C:\Users\SID\Desktop\SolutionCub-16.06.2016\Cub.WebUI\bin\Castle.Core.xml
+C:\Users\SID\Desktop\SolutionCub-16.06.2016\Cub.WebUI\bin\EntityFramework.xml
+C:\Users\SID\Desktop\SolutionCub-16.06.2016\Cub.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\SID\Desktop\SolutionCub-16.06.2016\Cub.WebUI\bin\Moq.xml
+C:\Users\SID\Desktop\SolutionCub-16.06.2016\Cub.WebUI\bin\Ninject.xml
+C:\Users\SID\Desktop\SolutionCub-16.06.2016\Cub.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\SID\Desktop\SolutionCub-16.06.2016\Cub.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\SID\Desktop\SolutionCub-16.06.2016\Cub.WebUI\bin\System.Web.Providers.xml
+C:\Users\SID\Desktop\SolutionCub-16.06.2016\Cub.WebUI\bin\System.Web.Razor.xml
+C:\Users\SID\Desktop\SolutionCub-16.06.2016\Cub.WebUI\bin\System.Web.Webpages.xml
+C:\Users\SID\Desktop\SolutionCub-16.06.2016\Cub.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\SID\Desktop\SolutionCub-16.06.2016\Cub.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\SID\Desktop\SolutionCub-16.06.2016\Cub.WebUI\bin\System.Web.Helpers.xml
+C:\Users\SID\Desktop\SolutionCub-16.06.2016\Cub.WebUI\bin\System.Web.Mvc.xml
+C:\Users\SID\Desktop\SolutionCub-16.06.2016\Cub.WebUI\obj\Debug\Cub.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\SID\Desktop\SolutionCub-16.06.2016\Cub.WebUI\obj\Debug\Cub.WebUI.dll
+C:\Users\SID\Desktop\SolutionCub-16.06.2016\Cub.WebUI\obj\Debug\Cub.WebUI.pdb
+C:\Users\SID\Desktop\SolutionCub-19.06.2016\Cub.WebUI\obj\Debug\Cub.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\SID\Desktop\SolutionCub-19.06.2016\Cub.WebUI\obj\Debug\Cub.WebUI.dll
+C:\Users\SID\Desktop\SolutionCub-19.06.2016\Cub.WebUI\obj\Debug\Cub.WebUI.pdb
+C:\Users\SID\Desktop\SolutionCub-19.06.2016\Cub.WebUI\bin\Cub.WebUI.dll.config
+C:\Users\SID\Desktop\SolutionCub-19.06.2016\Cub.WebUI\bin\Cub.WebUI.dll
+C:\Users\SID\Desktop\SolutionCub-19.06.2016\Cub.WebUI\bin\Cub.WebUI.pdb
+C:\Users\SID\Desktop\SolutionCub-19.06.2016\Cub.WebUI\bin\Castle.Core.dll
+C:\Users\SID\Desktop\SolutionCub-19.06.2016\Cub.WebUI\bin\Cub.Domian.dll
+C:\Users\SID\Desktop\SolutionCub-19.06.2016\Cub.WebUI\bin\EntityFramework.dll
+C:\Users\SID\Desktop\SolutionCub-19.06.2016\Cub.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\SID\Desktop\SolutionCub-19.06.2016\Cub.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SID\Desktop\SolutionCub-19.06.2016\Cub.WebUI\bin\Moq.dll
+C:\Users\SID\Desktop\SolutionCub-19.06.2016\Cub.WebUI\bin\Ninject.dll
+C:\Users\SID\Desktop\SolutionCub-19.06.2016\Cub.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\SID\Desktop\SolutionCub-19.06.2016\Cub.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\SID\Desktop\SolutionCub-19.06.2016\Cub.WebUI\bin\System.Web.Helpers.dll
+C:\Users\SID\Desktop\SolutionCub-19.06.2016\Cub.WebUI\bin\System.Web.Mvc.dll
+C:\Users\SID\Desktop\SolutionCub-19.06.2016\Cub.WebUI\bin\System.Web.Providers.dll
+C:\Users\SID\Desktop\SolutionCub-19.06.2016\Cub.WebUI\bin\System.Web.Razor.dll
+C:\Users\SID\Desktop\SolutionCub-19.06.2016\Cub.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\SID\Desktop\SolutionCub-19.06.2016\Cub.WebUI\bin\System.Web.Webpages.dll
+C:\Users\SID\Desktop\SolutionCub-19.06.2016\Cub.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\SID\Desktop\SolutionCub-19.06.2016\Cub.WebUI\bin\Cub.Domian.pdb
+C:\Users\SID\Desktop\SolutionCub-19.06.2016\Cub.WebUI\bin\Castle.Core.xml
+C:\Users\SID\Desktop\SolutionCub-19.06.2016\Cub.WebUI\bin\EntityFramework.xml
+C:\Users\SID\Desktop\SolutionCub-19.06.2016\Cub.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\SID\Desktop\SolutionCub-19.06.2016\Cub.WebUI\bin\Moq.xml
+C:\Users\SID\Desktop\SolutionCub-19.06.2016\Cub.WebUI\bin\Ninject.xml
+C:\Users\SID\Desktop\SolutionCub-19.06.2016\Cub.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\SID\Desktop\SolutionCub-19.06.2016\Cub.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\SID\Desktop\SolutionCub-19.06.2016\Cub.WebUI\bin\System.Web.Providers.xml
+C:\Users\SID\Desktop\SolutionCub-19.06.2016\Cub.WebUI\bin\System.Web.Razor.xml
+C:\Users\SID\Desktop\SolutionCub-19.06.2016\Cub.WebUI\bin\System.Web.Webpages.xml
+C:\Users\SID\Desktop\SolutionCub-19.06.2016\Cub.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\SID\Desktop\SolutionCub-19.06.2016\Cub.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\SID\Desktop\SolutionCub-19.06.2016\Cub.WebUI\bin\System.Web.Helpers.xml
+C:\Users\SID\Desktop\SolutionCub-19.06.2016\Cub.WebUI\bin\System.Web.Mvc.xml
+C:\Users\SID\Desktop\SolutionCub-20.06.2016 - ch1\Cub.WebUI\bin\Cub.WebUI.dll.config
+C:\Users\SID\Desktop\SolutionCub-20.06.2016 - ch1\Cub.WebUI\bin\Cub.WebUI.dll
+C:\Users\SID\Desktop\SolutionCub-20.06.2016 - ch1\Cub.WebUI\bin\Cub.WebUI.pdb
+C:\Users\SID\Desktop\SolutionCub-20.06.2016 - ch1\Cub.WebUI\bin\Castle.Core.dll
+C:\Users\SID\Desktop\SolutionCub-20.06.2016 - ch1\Cub.WebUI\bin\Cub.Domian.dll
+C:\Users\SID\Desktop\SolutionCub-20.06.2016 - ch1\Cub.WebUI\bin\EntityFramework.dll
+C:\Users\SID\Desktop\SolutionCub-20.06.2016 - ch1\Cub.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\SID\Desktop\SolutionCub-20.06.2016 - ch1\Cub.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SID\Desktop\SolutionCub-20.06.2016 - ch1\Cub.WebUI\bin\Moq.dll
+C:\Users\SID\Desktop\SolutionCub-20.06.2016 - ch1\Cub.WebUI\bin\Ninject.dll
+C:\Users\SID\Desktop\SolutionCub-20.06.2016 - ch1\Cub.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\SID\Desktop\SolutionCub-20.06.2016 - ch1\Cub.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\SID\Desktop\SolutionCub-20.06.2016 - ch1\Cub.WebUI\bin\System.Web.Helpers.dll
+C:\Users\SID\Desktop\SolutionCub-20.06.2016 - ch1\Cub.WebUI\bin\System.Web.Mvc.dll
+C:\Users\SID\Desktop\SolutionCub-20.06.2016 - ch1\Cub.WebUI\bin\System.Web.Providers.dll
+C:\Users\SID\Desktop\SolutionCub-20.06.2016 - ch1\Cub.WebUI\bin\System.Web.Razor.dll
+C:\Users\SID\Desktop\SolutionCub-20.06.2016 - ch1\Cub.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\SID\Desktop\SolutionCub-20.06.2016 - ch1\Cub.WebUI\bin\System.Web.Webpages.dll
+C:\Users\SID\Desktop\SolutionCub-20.06.2016 - ch1\Cub.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\SID\Desktop\SolutionCub-20.06.2016 - ch1\Cub.WebUI\bin\Cub.Domian.pdb
+C:\Users\SID\Desktop\SolutionCub-20.06.2016 - ch1\Cub.WebUI\bin\Castle.Core.xml
+C:\Users\SID\Desktop\SolutionCub-20.06.2016 - ch1\Cub.WebUI\bin\EntityFramework.xml
+C:\Users\SID\Desktop\SolutionCub-20.06.2016 - ch1\Cub.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\SID\Desktop\SolutionCub-20.06.2016 - ch1\Cub.WebUI\bin\Moq.xml
+C:\Users\SID\Desktop\SolutionCub-20.06.2016 - ch1\Cub.WebUI\bin\Ninject.xml
+C:\Users\SID\Desktop\SolutionCub-20.06.2016 - ch1\Cub.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\SID\Desktop\SolutionCub-20.06.2016 - ch1\Cub.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\SID\Desktop\SolutionCub-20.06.2016 - ch1\Cub.WebUI\bin\System.Web.Providers.xml
+C:\Users\SID\Desktop\SolutionCub-20.06.2016 - ch1\Cub.WebUI\bin\System.Web.Razor.xml
+C:\Users\SID\Desktop\SolutionCub-20.06.2016 - ch1\Cub.WebUI\bin\System.Web.Webpages.xml
+C:\Users\SID\Desktop\SolutionCub-20.06.2016 - ch1\Cub.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\SID\Desktop\SolutionCub-20.06.2016 - ch1\Cub.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\SID\Desktop\SolutionCub-20.06.2016 - ch1\Cub.WebUI\bin\System.Web.Helpers.xml
+C:\Users\SID\Desktop\SolutionCub-20.06.2016 - ch1\Cub.WebUI\bin\System.Web.Mvc.xml
+C:\Users\SID\Desktop\SolutionCub-20.06.2016 - ch1\Cub.WebUI\obj\Debug\Cub.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\SID\Desktop\SolutionCub-20.06.2016 - ch1\Cub.WebUI\obj\Debug\Cub.WebUI.dll
+C:\Users\SID\Desktop\SolutionCub-20.06.2016 - ch1\Cub.WebUI\obj\Debug\Cub.WebUI.pdb
+C:\Users\SID\Desktop\SolutionCub-23.06.2016\Cub.WebUI\bin\Cub.WebUI.dll.config
+C:\Users\SID\Desktop\SolutionCub-23.06.2016\Cub.WebUI\bin\Cub.WebUI.dll
+C:\Users\SID\Desktop\SolutionCub-23.06.2016\Cub.WebUI\bin\Cub.WebUI.pdb
+C:\Users\SID\Desktop\SolutionCub-23.06.2016\Cub.WebUI\bin\Castle.Core.dll
+C:\Users\SID\Desktop\SolutionCub-23.06.2016\Cub.WebUI\bin\Cub.Domian.dll
+C:\Users\SID\Desktop\SolutionCub-23.06.2016\Cub.WebUI\bin\EntityFramework.dll
+C:\Users\SID\Desktop\SolutionCub-23.06.2016\Cub.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\SID\Desktop\SolutionCub-23.06.2016\Cub.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SID\Desktop\SolutionCub-23.06.2016\Cub.WebUI\bin\Moq.dll
+C:\Users\SID\Desktop\SolutionCub-23.06.2016\Cub.WebUI\bin\Ninject.dll
+C:\Users\SID\Desktop\SolutionCub-23.06.2016\Cub.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\SID\Desktop\SolutionCub-23.06.2016\Cub.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\SID\Desktop\SolutionCub-23.06.2016\Cub.WebUI\bin\System.Web.Helpers.dll
+C:\Users\SID\Desktop\SolutionCub-23.06.2016\Cub.WebUI\bin\System.Web.Mvc.dll
+C:\Users\SID\Desktop\SolutionCub-23.06.2016\Cub.WebUI\bin\System.Web.Providers.dll
+C:\Users\SID\Desktop\SolutionCub-23.06.2016\Cub.WebUI\bin\System.Web.Razor.dll
+C:\Users\SID\Desktop\SolutionCub-23.06.2016\Cub.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\SID\Desktop\SolutionCub-23.06.2016\Cub.WebUI\bin\System.Web.Webpages.dll
+C:\Users\SID\Desktop\SolutionCub-23.06.2016\Cub.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\SID\Desktop\SolutionCub-23.06.2016\Cub.WebUI\bin\Cub.Domian.pdb
+C:\Users\SID\Desktop\SolutionCub-23.06.2016\Cub.WebUI\bin\Castle.Core.xml
+C:\Users\SID\Desktop\SolutionCub-23.06.2016\Cub.WebUI\bin\EntityFramework.xml
+C:\Users\SID\Desktop\SolutionCub-23.06.2016\Cub.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\SID\Desktop\SolutionCub-23.06.2016\Cub.WebUI\bin\Moq.xml
+C:\Users\SID\Desktop\SolutionCub-23.06.2016\Cub.WebUI\bin\Ninject.xml
+C:\Users\SID\Desktop\SolutionCub-23.06.2016\Cub.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\SID\Desktop\SolutionCub-23.06.2016\Cub.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\SID\Desktop\SolutionCub-23.06.2016\Cub.WebUI\bin\System.Web.Providers.xml
+C:\Users\SID\Desktop\SolutionCub-23.06.2016\Cub.WebUI\bin\System.Web.Razor.xml
+C:\Users\SID\Desktop\SolutionCub-23.06.2016\Cub.WebUI\bin\System.Web.Webpages.xml
+C:\Users\SID\Desktop\SolutionCub-23.06.2016\Cub.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\SID\Desktop\SolutionCub-23.06.2016\Cub.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\SID\Desktop\SolutionCub-23.06.2016\Cub.WebUI\bin\System.Web.Helpers.xml
+C:\Users\SID\Desktop\SolutionCub-23.06.2016\Cub.WebUI\bin\System.Web.Mvc.xml
+C:\Users\SID\Desktop\SolutionCub-23.06.2016\Cub.WebUI\obj\Debug\Cub.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\SID\Desktop\SolutionCub-23.06.2016\Cub.WebUI\obj\Debug\Cub.WebUI.dll
+C:\Users\SID\Desktop\SolutionCub-23.06.2016\Cub.WebUI\obj\Debug\Cub.WebUI.pdb
+C:\Users\SID\Desktop\SolutionCub-24.06.2016\Cub.WebUI\bin\Cub.WebUI.dll.config
+C:\Users\SID\Desktop\SolutionCub-24.06.2016\Cub.WebUI\bin\Cub.WebUI.dll
+C:\Users\SID\Desktop\SolutionCub-24.06.2016\Cub.WebUI\bin\Cub.WebUI.pdb
+C:\Users\SID\Desktop\SolutionCub-24.06.2016\Cub.WebUI\bin\Castle.Core.dll
+C:\Users\SID\Desktop\SolutionCub-24.06.2016\Cub.WebUI\bin\Cub.Domian.dll
+C:\Users\SID\Desktop\SolutionCub-24.06.2016\Cub.WebUI\bin\EntityFramework.dll
+C:\Users\SID\Desktop\SolutionCub-24.06.2016\Cub.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\SID\Desktop\SolutionCub-24.06.2016\Cub.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SID\Desktop\SolutionCub-24.06.2016\Cub.WebUI\bin\Moq.dll
+C:\Users\SID\Desktop\SolutionCub-24.06.2016\Cub.WebUI\bin\Ninject.dll
+C:\Users\SID\Desktop\SolutionCub-24.06.2016\Cub.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\SID\Desktop\SolutionCub-24.06.2016\Cub.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\SID\Desktop\SolutionCub-24.06.2016\Cub.WebUI\bin\System.Web.Helpers.dll
+C:\Users\SID\Desktop\SolutionCub-24.06.2016\Cub.WebUI\bin\System.Web.Mvc.dll
+C:\Users\SID\Desktop\SolutionCub-24.06.2016\Cub.WebUI\bin\System.Web.Providers.dll
+C:\Users\SID\Desktop\SolutionCub-24.06.2016\Cub.WebUI\bin\System.Web.Razor.dll
+C:\Users\SID\Desktop\SolutionCub-24.06.2016\Cub.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\SID\Desktop\SolutionCub-24.06.2016\Cub.WebUI\bin\System.Web.Webpages.dll
+C:\Users\SID\Desktop\SolutionCub-24.06.2016\Cub.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\SID\Desktop\SolutionCub-24.06.2016\Cub.WebUI\bin\Cub.Domian.pdb
+C:\Users\SID\Desktop\SolutionCub-24.06.2016\Cub.WebUI\bin\Castle.Core.xml
+C:\Users\SID\Desktop\SolutionCub-24.06.2016\Cub.WebUI\bin\EntityFramework.xml
+C:\Users\SID\Desktop\SolutionCub-24.06.2016\Cub.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\SID\Desktop\SolutionCub-24.06.2016\Cub.WebUI\bin\Moq.xml
+C:\Users\SID\Desktop\SolutionCub-24.06.2016\Cub.WebUI\bin\Ninject.xml
+C:\Users\SID\Desktop\SolutionCub-24.06.2016\Cub.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\SID\Desktop\SolutionCub-24.06.2016\Cub.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\SID\Desktop\SolutionCub-24.06.2016\Cub.WebUI\bin\System.Web.Providers.xml
+C:\Users\SID\Desktop\SolutionCub-24.06.2016\Cub.WebUI\bin\System.Web.Razor.xml
+C:\Users\SID\Desktop\SolutionCub-24.06.2016\Cub.WebUI\bin\System.Web.Webpages.xml
+C:\Users\SID\Desktop\SolutionCub-24.06.2016\Cub.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\SID\Desktop\SolutionCub-24.06.2016\Cub.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\SID\Desktop\SolutionCub-24.06.2016\Cub.WebUI\bin\System.Web.Helpers.xml
+C:\Users\SID\Desktop\SolutionCub-24.06.2016\Cub.WebUI\bin\System.Web.Mvc.xml
+C:\Users\SID\Desktop\SolutionCub-24.06.2016\Cub.WebUI\obj\Debug\Cub.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\SID\Desktop\SolutionCub-24.06.2016\Cub.WebUI\obj\Debug\Cub.WebUI.dll
+C:\Users\SID\Desktop\SolutionCub-24.06.2016\Cub.WebUI\obj\Debug\Cub.WebUI.pdb
+C:\Users\SID\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\Cub.WebUI.dll.config
+C:\Users\SID\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\Cub.WebUI.dll
+C:\Users\SID\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\Cub.WebUI.pdb
+C:\Users\SID\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\Castle.Core.dll
+C:\Users\SID\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\Cub.Domian.dll
+C:\Users\SID\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\EntityFramework.dll
+C:\Users\SID\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\SID\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SID\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\Moq.dll
+C:\Users\SID\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\Ninject.dll
+C:\Users\SID\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\SID\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\SID\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\System.Web.Helpers.dll
+C:\Users\SID\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\System.Web.Mvc.dll
+C:\Users\SID\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\System.Web.Providers.dll
+C:\Users\SID\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\System.Web.Razor.dll
+C:\Users\SID\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\SID\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\System.Web.Webpages.dll
+C:\Users\SID\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\SID\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\Cub.Domian.pdb
+C:\Users\SID\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\Castle.Core.xml
+C:\Users\SID\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\EntityFramework.xml
+C:\Users\SID\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\SID\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\Moq.xml
+C:\Users\SID\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\Ninject.xml
+C:\Users\SID\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\SID\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\SID\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\System.Web.Providers.xml
+C:\Users\SID\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\System.Web.Razor.xml
+C:\Users\SID\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\System.Web.Webpages.xml
+C:\Users\SID\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\SID\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\SID\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\System.Web.Helpers.xml
+C:\Users\SID\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\System.Web.Mvc.xml
+C:\Users\SID\Desktop\SolutionCub-28.06.2016\Cub.WebUI\obj\Debug\Cub.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\SID\Desktop\SolutionCub-28.06.2016\Cub.WebUI\obj\Debug\Cub.WebUI.dll
+C:\Users\SID\Desktop\SolutionCub-28.06.2016\Cub.WebUI\obj\Debug\Cub.WebUI.pdb
+C:\Users\kekuh\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\Cub.WebUI.dll.config
+C:\Users\kekuh\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\Cub.WebUI.dll
+C:\Users\kekuh\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\Cub.WebUI.pdb
+C:\Users\kekuh\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\Castle.Core.dll
+C:\Users\kekuh\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\Cub.Domian.dll
+C:\Users\kekuh\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\EntityFramework.dll
+C:\Users\kekuh\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\kekuh\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kekuh\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\Moq.dll
+C:\Users\kekuh\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\Ninject.dll
+C:\Users\kekuh\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\kekuh\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\kekuh\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\System.Web.Helpers.dll
+C:\Users\kekuh\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\System.Web.Mvc.dll
+C:\Users\kekuh\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\System.Web.Providers.dll
+C:\Users\kekuh\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\System.Web.Razor.dll
+C:\Users\kekuh\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\kekuh\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\System.Web.Webpages.dll
+C:\Users\kekuh\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\kekuh\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\Cub.Domian.pdb
+C:\Users\kekuh\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\Castle.Core.xml
+C:\Users\kekuh\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\EntityFramework.xml
+C:\Users\kekuh\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\kekuh\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\Moq.xml
+C:\Users\kekuh\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\Ninject.xml
+C:\Users\kekuh\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\kekuh\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\kekuh\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\System.Web.Providers.xml
+C:\Users\kekuh\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\System.Web.Razor.xml
+C:\Users\kekuh\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\System.Web.Webpages.xml
+C:\Users\kekuh\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\kekuh\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\kekuh\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\System.Web.Helpers.xml
+C:\Users\kekuh\Desktop\SolutionCub-28.06.2016\Cub.WebUI\bin\System.Web.Mvc.xml
+C:\Users\kekuh\Desktop\SolutionCub-28.06.2016\Cub.WebUI\obj\Debug\Cub.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\kekuh\Desktop\SolutionCub-28.06.2016\Cub.WebUI\obj\Debug\Cub.WebUI.dll
+C:\Users\kekuh\Desktop\SolutionCub-28.06.2016\Cub.WebUI\obj\Debug\Cub.WebUI.pdb
+C:\Users\SID\Desktop\SolutionCub-29.06.2016\Cub.WebUI\bin\Cub.WebUI.dll.config
+C:\Users\SID\Desktop\SolutionCub-29.06.2016\Cub.WebUI\bin\Cub.WebUI.dll
+C:\Users\SID\Desktop\SolutionCub-29.06.2016\Cub.WebUI\bin\Cub.WebUI.pdb
+C:\Users\SID\Desktop\SolutionCub-29.06.2016\Cub.WebUI\bin\Castle.Core.dll
+C:\Users\SID\Desktop\SolutionCub-29.06.2016\Cub.WebUI\bin\Cub.Domian.dll
+C:\Users\SID\Desktop\SolutionCub-29.06.2016\Cub.WebUI\bin\EntityFramework.dll
+C:\Users\SID\Desktop\SolutionCub-29.06.2016\Cub.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\SID\Desktop\SolutionCub-29.06.2016\Cub.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SID\Desktop\SolutionCub-29.06.2016\Cub.WebUI\bin\Moq.dll
+C:\Users\SID\Desktop\SolutionCub-29.06.2016\Cub.WebUI\bin\Ninject.dll
+C:\Users\SID\Desktop\SolutionCub-29.06.2016\Cub.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\SID\Desktop\SolutionCub-29.06.2016\Cub.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\SID\Desktop\SolutionCub-29.06.2016\Cub.WebUI\bin\System.Web.Helpers.dll
+C:\Users\SID\Desktop\SolutionCub-29.06.2016\Cub.WebUI\bin\System.Web.Mvc.dll
+C:\Users\SID\Desktop\SolutionCub-29.06.2016\Cub.WebUI\bin\System.Web.Providers.dll
+C:\Users\SID\Desktop\SolutionCub-29.06.2016\Cub.WebUI\bin\System.Web.Razor.dll
+C:\Users\SID\Desktop\SolutionCub-29.06.2016\Cub.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\SID\Desktop\SolutionCub-29.06.2016\Cub.WebUI\bin\System.Web.Webpages.dll
+C:\Users\SID\Desktop\SolutionCub-29.06.2016\Cub.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\SID\Desktop\SolutionCub-29.06.2016\Cub.WebUI\bin\Cub.Domian.pdb
+C:\Users\SID\Desktop\SolutionCub-29.06.2016\Cub.WebUI\bin\Castle.Core.xml
+C:\Users\SID\Desktop\SolutionCub-29.06.2016\Cub.WebUI\bin\EntityFramework.xml
+C:\Users\SID\Desktop\SolutionCub-29.06.2016\Cub.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\SID\Desktop\SolutionCub-29.06.2016\Cub.WebUI\bin\Moq.xml
+C:\Users\SID\Desktop\SolutionCub-29.06.2016\Cub.WebUI\bin\Ninject.xml
+C:\Users\SID\Desktop\SolutionCub-29.06.2016\Cub.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\SID\Desktop\SolutionCub-29.06.2016\Cub.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\SID\Desktop\SolutionCub-29.06.2016\Cub.WebUI\bin\System.Web.Providers.xml
+C:\Users\SID\Desktop\SolutionCub-29.06.2016\Cub.WebUI\bin\System.Web.Razor.xml
+C:\Users\SID\Desktop\SolutionCub-29.06.2016\Cub.WebUI\bin\System.Web.Webpages.xml
+C:\Users\SID\Desktop\SolutionCub-29.06.2016\Cub.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\SID\Desktop\SolutionCub-29.06.2016\Cub.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\SID\Desktop\SolutionCub-29.06.2016\Cub.WebUI\bin\System.Web.Helpers.xml
+C:\Users\SID\Desktop\SolutionCub-29.06.2016\Cub.WebUI\bin\System.Web.Mvc.xml
+C:\Users\SID\Desktop\SolutionCub-29.06.2016\Cub.WebUI\obj\Debug\Cub.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\SID\Desktop\SolutionCub-29.06.2016\Cub.WebUI\obj\Debug\Cub.WebUI.dll
+C:\Users\SID\Desktop\SolutionCub-29.06.2016\Cub.WebUI\obj\Debug\Cub.WebUI.pdb
+C:\Users\SID\Desktop\SolutionCub-30.06.2016\Cub.WebUI\bin\Cub.WebUI.dll.config
+C:\Users\SID\Desktop\SolutionCub-30.06.2016\Cub.WebUI\bin\Cub.WebUI.dll
+C:\Users\SID\Desktop\SolutionCub-30.06.2016\Cub.WebUI\bin\Cub.WebUI.pdb
+C:\Users\SID\Desktop\SolutionCub-30.06.2016\Cub.WebUI\bin\Castle.Core.dll
+C:\Users\SID\Desktop\SolutionCub-30.06.2016\Cub.WebUI\bin\Cub.Domian.dll
+C:\Users\SID\Desktop\SolutionCub-30.06.2016\Cub.WebUI\bin\EntityFramework.dll
+C:\Users\SID\Desktop\SolutionCub-30.06.2016\Cub.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\SID\Desktop\SolutionCub-30.06.2016\Cub.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SID\Desktop\SolutionCub-30.06.2016\Cub.WebUI\bin\Moq.dll
+C:\Users\SID\Desktop\SolutionCub-30.06.2016\Cub.WebUI\bin\Ninject.dll
+C:\Users\SID\Desktop\SolutionCub-30.06.2016\Cub.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\SID\Desktop\SolutionCub-30.06.2016\Cub.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\SID\Desktop\SolutionCub-30.06.2016\Cub.WebUI\bin\System.Web.Helpers.dll
+C:\Users\SID\Desktop\SolutionCub-30.06.2016\Cub.WebUI\bin\System.Web.Mvc.dll
+C:\Users\SID\Desktop\SolutionCub-30.06.2016\Cub.WebUI\bin\System.Web.Providers.dll
+C:\Users\SID\Desktop\SolutionCub-30.06.2016\Cub.WebUI\bin\System.Web.Razor.dll
+C:\Users\SID\Desktop\SolutionCub-30.06.2016\Cub.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\SID\Desktop\SolutionCub-30.06.2016\Cub.WebUI\bin\System.Web.Webpages.dll
+C:\Users\SID\Desktop\SolutionCub-30.06.2016\Cub.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\SID\Desktop\SolutionCub-30.06.2016\Cub.WebUI\bin\Cub.Domian.pdb
+C:\Users\SID\Desktop\SolutionCub-30.06.2016\Cub.WebUI\bin\Castle.Core.xml
+C:\Users\SID\Desktop\SolutionCub-30.06.2016\Cub.WebUI\bin\EntityFramework.xml
+C:\Users\SID\Desktop\SolutionCub-30.06.2016\Cub.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\SID\Desktop\SolutionCub-30.06.2016\Cub.WebUI\bin\Moq.xml
+C:\Users\SID\Desktop\SolutionCub-30.06.2016\Cub.WebUI\bin\Ninject.xml
+C:\Users\SID\Desktop\SolutionCub-30.06.2016\Cub.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\SID\Desktop\SolutionCub-30.06.2016\Cub.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\SID\Desktop\SolutionCub-30.06.2016\Cub.WebUI\bin\System.Web.Providers.xml
+C:\Users\SID\Desktop\SolutionCub-30.06.2016\Cub.WebUI\bin\System.Web.Razor.xml
+C:\Users\SID\Desktop\SolutionCub-30.06.2016\Cub.WebUI\bin\System.Web.Webpages.xml
+C:\Users\SID\Desktop\SolutionCub-30.06.2016\Cub.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\SID\Desktop\SolutionCub-30.06.2016\Cub.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\SID\Desktop\SolutionCub-30.06.2016\Cub.WebUI\bin\System.Web.Helpers.xml
+C:\Users\SID\Desktop\SolutionCub-30.06.2016\Cub.WebUI\bin\System.Web.Mvc.xml
+C:\Users\SID\Desktop\SolutionCub-30.06.2016\Cub.WebUI\obj\Debug\Cub.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\SID\Desktop\SolutionCub-30.06.2016\Cub.WebUI\obj\Debug\Cub.WebUI.dll
+C:\Users\SID\Desktop\SolutionCub-30.06.2016\Cub.WebUI\obj\Debug\Cub.WebUI.pdb
+C:\Users\SID\Desktop\SolutionCub-30.06.2016\Cub.WebUI\bin\System.Net.Http.dll
+C:\Users\SID\Desktop\SolutionCub-05.07.2016\Cub.WebUI\bin\Cub.WebUI.dll.config
+C:\Users\SID\Desktop\SolutionCub-05.07.2016\Cub.WebUI\bin\Cub.WebUI.dll
+C:\Users\SID\Desktop\SolutionCub-05.07.2016\Cub.WebUI\bin\Cub.WebUI.pdb
+C:\Users\SID\Desktop\SolutionCub-05.07.2016\Cub.WebUI\bin\Castle.Core.dll
+C:\Users\SID\Desktop\SolutionCub-05.07.2016\Cub.WebUI\bin\Cub.Domian.dll
+C:\Users\SID\Desktop\SolutionCub-05.07.2016\Cub.WebUI\bin\EntityFramework.dll
+C:\Users\SID\Desktop\SolutionCub-05.07.2016\Cub.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\SID\Desktop\SolutionCub-05.07.2016\Cub.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SID\Desktop\SolutionCub-05.07.2016\Cub.WebUI\bin\Moq.dll
+C:\Users\SID\Desktop\SolutionCub-05.07.2016\Cub.WebUI\bin\Ninject.dll
+C:\Users\SID\Desktop\SolutionCub-05.07.2016\Cub.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\SID\Desktop\SolutionCub-05.07.2016\Cub.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\SID\Desktop\SolutionCub-05.07.2016\Cub.WebUI\bin\System.Net.Http.dll
+C:\Users\SID\Desktop\SolutionCub-05.07.2016\Cub.WebUI\bin\System.Web.Helpers.dll
+C:\Users\SID\Desktop\SolutionCub-05.07.2016\Cub.WebUI\bin\System.Web.Mvc.dll
+C:\Users\SID\Desktop\SolutionCub-05.07.2016\Cub.WebUI\bin\System.Web.Providers.dll
+C:\Users\SID\Desktop\SolutionCub-05.07.2016\Cub.WebUI\bin\System.Web.Razor.dll
+C:\Users\SID\Desktop\SolutionCub-05.07.2016\Cub.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\SID\Desktop\SolutionCub-05.07.2016\Cub.WebUI\bin\System.Web.Webpages.dll
+C:\Users\SID\Desktop\SolutionCub-05.07.2016\Cub.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\SID\Desktop\SolutionCub-05.07.2016\Cub.WebUI\bin\Cub.Domian.pdb
+C:\Users\SID\Desktop\SolutionCub-05.07.2016\Cub.WebUI\bin\Castle.Core.xml
+C:\Users\SID\Desktop\SolutionCub-05.07.2016\Cub.WebUI\bin\EntityFramework.xml
+C:\Users\SID\Desktop\SolutionCub-05.07.2016\Cub.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\SID\Desktop\SolutionCub-05.07.2016\Cub.WebUI\bin\Moq.xml
+C:\Users\SID\Desktop\SolutionCub-05.07.2016\Cub.WebUI\bin\Ninject.xml
+C:\Users\SID\Desktop\SolutionCub-05.07.2016\Cub.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\SID\Desktop\SolutionCub-05.07.2016\Cub.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\SID\Desktop\SolutionCub-05.07.2016\Cub.WebUI\bin\System.Web.Providers.xml
+C:\Users\SID\Desktop\SolutionCub-05.07.2016\Cub.WebUI\bin\System.Web.Razor.xml
+C:\Users\SID\Desktop\SolutionCub-05.07.2016\Cub.WebUI\bin\System.Web.Webpages.xml
+C:\Users\SID\Desktop\SolutionCub-05.07.2016\Cub.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\SID\Desktop\SolutionCub-05.07.2016\Cub.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\SID\Desktop\SolutionCub-05.07.2016\Cub.WebUI\bin\System.Web.Helpers.xml
+C:\Users\SID\Desktop\SolutionCub-05.07.2016\Cub.WebUI\bin\System.Web.Mvc.xml
+C:\Users\SID\Desktop\SolutionCub-05.07.2016\Cub.WebUI\obj\Debug\Cub.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\SID\Desktop\SolutionCub-05.07.2016\Cub.WebUI\obj\Debug\Cub.WebUI.dll
+C:\Users\SID\Desktop\SolutionCub-05.07.2016\Cub.WebUI\obj\Debug\Cub.WebUI.pdb
+C:\Users\SergK\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\Cub.WebUI.dll.config
+C:\Users\SergK\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\Cub.WebUI.dll
+C:\Users\SergK\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\Cub.WebUI.pdb
+C:\Users\SergK\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\Castle.Core.dll
+C:\Users\SergK\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\Cub.Domian.dll
+C:\Users\SergK\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\EntityFramework.dll
+C:\Users\SergK\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\SergK\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SergK\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\Moq.dll
+C:\Users\SergK\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\Ninject.dll
+C:\Users\SergK\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\SergK\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\SergK\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\System.Net.Http.dll
+C:\Users\SergK\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\System.Web.Helpers.dll
+C:\Users\SergK\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\System.Web.Mvc.dll
+C:\Users\SergK\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\System.Web.Providers.dll
+C:\Users\SergK\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\System.Web.Razor.dll
+C:\Users\SergK\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\SergK\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\System.Web.Webpages.dll
+C:\Users\SergK\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\SergK\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\Cub.Domian.pdb
+C:\Users\SergK\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\Castle.Core.xml
+C:\Users\SergK\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\EntityFramework.xml
+C:\Users\SergK\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\SergK\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\Moq.xml
+C:\Users\SergK\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\Ninject.xml
+C:\Users\SergK\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\SergK\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\SergK\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\System.Web.Providers.xml
+C:\Users\SergK\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\System.Web.Razor.xml
+C:\Users\SergK\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\System.Web.Webpages.xml
+C:\Users\SergK\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\SergK\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\SergK\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\System.Web.Helpers.xml
+C:\Users\SergK\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\System.Web.Mvc.xml
+C:\Users\SergK\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\obj\Debug\Cub.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\SergK\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\obj\Debug\Cub.WebUI.dll
+C:\Users\SergK\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\obj\Debug\Cub.WebUI.pdb
+C:\Users\SID\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\obj\Debug\Cub.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\SID\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\obj\Debug\Cub.WebUI.dll
+C:\Users\SID\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\obj\Debug\Cub.WebUI.pdb
+C:\Users\SID\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\Cub.WebUI.dll.config
+C:\Users\SID\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\Cub.WebUI.dll
+C:\Users\SID\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\Cub.WebUI.pdb
+C:\Users\SID\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\Castle.Core.dll
+C:\Users\SID\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\Cub.Domian.dll
+C:\Users\SID\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\EntityFramework.dll
+C:\Users\SID\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\SID\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SID\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\Moq.dll
+C:\Users\SID\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\Ninject.dll
+C:\Users\SID\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\SID\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\SID\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\System.Net.Http.dll
+C:\Users\SID\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\System.Web.Helpers.dll
+C:\Users\SID\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\System.Web.Mvc.dll
+C:\Users\SID\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\System.Web.Providers.dll
+C:\Users\SID\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\System.Web.Razor.dll
+C:\Users\SID\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\SID\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\System.Web.Webpages.dll
+C:\Users\SID\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\SID\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\Cub.Domian.pdb
+C:\Users\SID\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\Castle.Core.xml
+C:\Users\SID\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\EntityFramework.xml
+C:\Users\SID\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\SID\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\Moq.xml
+C:\Users\SID\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\Ninject.xml
+C:\Users\SID\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\SID\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\SID\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\System.Web.Providers.xml
+C:\Users\SID\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\System.Web.Razor.xml
+C:\Users\SID\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\System.Web.Webpages.xml
+C:\Users\SID\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\SID\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\SID\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\System.Web.Helpers.xml
+C:\Users\SID\Desktop\SolutionCub-07.07.2016-2016-07-06\SolutionCub-07.07.2016\Cub.WebUI\bin\System.Web.Mvc.xml
+C:\Users\SID\Desktop\SolutionCub-08.07.2016\Cub.WebUI\bin\Cub.WebUI.dll.config
+C:\Users\SID\Desktop\SolutionCub-08.07.2016\Cub.WebUI\bin\Cub.WebUI.dll
+C:\Users\SID\Desktop\SolutionCub-08.07.2016\Cub.WebUI\bin\Cub.WebUI.pdb
+C:\Users\SID\Desktop\SolutionCub-08.07.2016\Cub.WebUI\bin\Castle.Core.dll
+C:\Users\SID\Desktop\SolutionCub-08.07.2016\Cub.WebUI\bin\Cub.Domian.dll
+C:\Users\SID\Desktop\SolutionCub-08.07.2016\Cub.WebUI\bin\EntityFramework.dll
+C:\Users\SID\Desktop\SolutionCub-08.07.2016\Cub.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\SID\Desktop\SolutionCub-08.07.2016\Cub.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SID\Desktop\SolutionCub-08.07.2016\Cub.WebUI\bin\Moq.dll
+C:\Users\SID\Desktop\SolutionCub-08.07.2016\Cub.WebUI\bin\Ninject.dll
+C:\Users\SID\Desktop\SolutionCub-08.07.2016\Cub.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\SID\Desktop\SolutionCub-08.07.2016\Cub.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\SID\Desktop\SolutionCub-08.07.2016\Cub.WebUI\bin\System.Net.Http.dll
+C:\Users\SID\Desktop\SolutionCub-08.07.2016\Cub.WebUI\bin\System.Web.Helpers.dll
+C:\Users\SID\Desktop\SolutionCub-08.07.2016\Cub.WebUI\bin\System.Web.Mvc.dll
+C:\Users\SID\Desktop\SolutionCub-08.07.2016\Cub.WebUI\bin\System.Web.Providers.dll
+C:\Users\SID\Desktop\SolutionCub-08.07.2016\Cub.WebUI\bin\System.Web.Razor.dll
+C:\Users\SID\Desktop\SolutionCub-08.07.2016\Cub.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\SID\Desktop\SolutionCub-08.07.2016\Cub.WebUI\bin\System.Web.Webpages.dll
+C:\Users\SID\Desktop\SolutionCub-08.07.2016\Cub.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\SID\Desktop\SolutionCub-08.07.2016\Cub.WebUI\bin\Cub.Domian.pdb
+C:\Users\SID\Desktop\SolutionCub-08.07.2016\Cub.WebUI\bin\Castle.Core.xml
+C:\Users\SID\Desktop\SolutionCub-08.07.2016\Cub.WebUI\bin\EntityFramework.xml
+C:\Users\SID\Desktop\SolutionCub-08.07.2016\Cub.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\SID\Desktop\SolutionCub-08.07.2016\Cub.WebUI\bin\Moq.xml
+C:\Users\SID\Desktop\SolutionCub-08.07.2016\Cub.WebUI\bin\Ninject.xml
+C:\Users\SID\Desktop\SolutionCub-08.07.2016\Cub.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\SID\Desktop\SolutionCub-08.07.2016\Cub.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\SID\Desktop\SolutionCub-08.07.2016\Cub.WebUI\bin\System.Web.Providers.xml
+C:\Users\SID\Desktop\SolutionCub-08.07.2016\Cub.WebUI\bin\System.Web.Razor.xml
+C:\Users\SID\Desktop\SolutionCub-08.07.2016\Cub.WebUI\bin\System.Web.Webpages.xml
+C:\Users\SID\Desktop\SolutionCub-08.07.2016\Cub.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\SID\Desktop\SolutionCub-08.07.2016\Cub.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\SID\Desktop\SolutionCub-08.07.2016\Cub.WebUI\bin\System.Web.Helpers.xml
+C:\Users\SID\Desktop\SolutionCub-08.07.2016\Cub.WebUI\bin\System.Web.Mvc.xml
+C:\Users\SID\Desktop\SolutionCub-08.07.2016\Cub.WebUI\obj\Debug\Cub.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\SID\Desktop\SolutionCub-08.07.2016\Cub.WebUI\obj\Debug\Cub.WebUI.dll
+C:\Users\SID\Desktop\SolutionCub-08.07.2016\Cub.WebUI\obj\Debug\Cub.WebUI.pdb
+C:\Users\SID\Desktop\SolutionCub-13.07.2016\Cub.WebUI\bin\Cub.WebUI.dll.config
+C:\Users\SID\Desktop\SolutionCub-13.07.2016\Cub.WebUI\bin\Cub.WebUI.dll
+C:\Users\SID\Desktop\SolutionCub-13.07.2016\Cub.WebUI\bin\Cub.WebUI.pdb
+C:\Users\SID\Desktop\SolutionCub-13.07.2016\Cub.WebUI\bin\Castle.Core.dll
+C:\Users\SID\Desktop\SolutionCub-13.07.2016\Cub.WebUI\bin\Cub.Domian.dll
+C:\Users\SID\Desktop\SolutionCub-13.07.2016\Cub.WebUI\bin\EntityFramework.dll
+C:\Users\SID\Desktop\SolutionCub-13.07.2016\Cub.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\SID\Desktop\SolutionCub-13.07.2016\Cub.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SID\Desktop\SolutionCub-13.07.2016\Cub.WebUI\bin\Moq.dll
+C:\Users\SID\Desktop\SolutionCub-13.07.2016\Cub.WebUI\bin\Ninject.dll
+C:\Users\SID\Desktop\SolutionCub-13.07.2016\Cub.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\SID\Desktop\SolutionCub-13.07.2016\Cub.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\SID\Desktop\SolutionCub-13.07.2016\Cub.WebUI\bin\System.Net.Http.dll
+C:\Users\SID\Desktop\SolutionCub-13.07.2016\Cub.WebUI\bin\System.Web.Helpers.dll
+C:\Users\SID\Desktop\SolutionCub-13.07.2016\Cub.WebUI\bin\System.Web.Mvc.dll
+C:\Users\SID\Desktop\SolutionCub-13.07.2016\Cub.WebUI\bin\System.Web.Providers.dll
+C:\Users\SID\Desktop\SolutionCub-13.07.2016\Cub.WebUI\bin\System.Web.Razor.dll
+C:\Users\SID\Desktop\SolutionCub-13.07.2016\Cub.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\SID\Desktop\SolutionCub-13.07.2016\Cub.WebUI\bin\System.Web.Webpages.dll
+C:\Users\SID\Desktop\SolutionCub-13.07.2016\Cub.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\SID\Desktop\SolutionCub-13.07.2016\Cub.WebUI\bin\Cub.Domian.pdb
+C:\Users\SID\Desktop\SolutionCub-13.07.2016\Cub.WebUI\bin\Castle.Core.xml
+C:\Users\SID\Desktop\SolutionCub-13.07.2016\Cub.WebUI\bin\EntityFramework.xml
+C:\Users\SID\Desktop\SolutionCub-13.07.2016\Cub.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\SID\Desktop\SolutionCub-13.07.2016\Cub.WebUI\bin\Moq.xml
+C:\Users\SID\Desktop\SolutionCub-13.07.2016\Cub.WebUI\bin\Ninject.xml
+C:\Users\SID\Desktop\SolutionCub-13.07.2016\Cub.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\SID\Desktop\SolutionCub-13.07.2016\Cub.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\SID\Desktop\SolutionCub-13.07.2016\Cub.WebUI\bin\System.Web.Providers.xml
+C:\Users\SID\Desktop\SolutionCub-13.07.2016\Cub.WebUI\bin\System.Web.Razor.xml
+C:\Users\SID\Desktop\SolutionCub-13.07.2016\Cub.WebUI\bin\System.Web.Webpages.xml
+C:\Users\SID\Desktop\SolutionCub-13.07.2016\Cub.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\SID\Desktop\SolutionCub-13.07.2016\Cub.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\SID\Desktop\SolutionCub-13.07.2016\Cub.WebUI\bin\System.Web.Helpers.xml
+C:\Users\SID\Desktop\SolutionCub-13.07.2016\Cub.WebUI\bin\System.Web.Mvc.xml
+C:\Users\SID\Desktop\SolutionCub-13.07.2016\Cub.WebUI\obj\Debug\Cub.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\SID\Desktop\SolutionCub-13.07.2016\Cub.WebUI\obj\Debug\Cub.WebUI.dll
+C:\Users\SID\Desktop\SolutionCub-13.07.2016\Cub.WebUI\obj\Debug\Cub.WebUI.pdb
+C:\Users\SID\Desktop\SolutionCub-14.07.2016\Cub.WebUI\bin\Cub.WebUI.dll.config
+C:\Users\SID\Desktop\SolutionCub-14.07.2016\Cub.WebUI\bin\Cub.WebUI.dll
+C:\Users\SID\Desktop\SolutionCub-14.07.2016\Cub.WebUI\bin\Cub.WebUI.pdb
+C:\Users\SID\Desktop\SolutionCub-14.07.2016\Cub.WebUI\bin\Castle.Core.dll
+C:\Users\SID\Desktop\SolutionCub-14.07.2016\Cub.WebUI\bin\Cub.Domian.dll
+C:\Users\SID\Desktop\SolutionCub-14.07.2016\Cub.WebUI\bin\EntityFramework.dll
+C:\Users\SID\Desktop\SolutionCub-14.07.2016\Cub.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\SID\Desktop\SolutionCub-14.07.2016\Cub.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SID\Desktop\SolutionCub-14.07.2016\Cub.WebUI\bin\Moq.dll
+C:\Users\SID\Desktop\SolutionCub-14.07.2016\Cub.WebUI\bin\Ninject.dll
+C:\Users\SID\Desktop\SolutionCub-14.07.2016\Cub.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\SID\Desktop\SolutionCub-14.07.2016\Cub.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\SID\Desktop\SolutionCub-14.07.2016\Cub.WebUI\bin\System.Net.Http.dll
+C:\Users\SID\Desktop\SolutionCub-14.07.2016\Cub.WebUI\bin\System.Web.Helpers.dll
+C:\Users\SID\Desktop\SolutionCub-14.07.2016\Cub.WebUI\bin\System.Web.Mvc.dll
+C:\Users\SID\Desktop\SolutionCub-14.07.2016\Cub.WebUI\bin\System.Web.Providers.dll
+C:\Users\SID\Desktop\SolutionCub-14.07.2016\Cub.WebUI\bin\System.Web.Razor.dll
+C:\Users\SID\Desktop\SolutionCub-14.07.2016\Cub.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\SID\Desktop\SolutionCub-14.07.2016\Cub.WebUI\bin\System.Web.Webpages.dll
+C:\Users\SID\Desktop\SolutionCub-14.07.2016\Cub.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\SID\Desktop\SolutionCub-14.07.2016\Cub.WebUI\bin\Cub.Domian.pdb
+C:\Users\SID\Desktop\SolutionCub-14.07.2016\Cub.WebUI\bin\Castle.Core.xml
+C:\Users\SID\Desktop\SolutionCub-14.07.2016\Cub.WebUI\bin\EntityFramework.xml
+C:\Users\SID\Desktop\SolutionCub-14.07.2016\Cub.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\SID\Desktop\SolutionCub-14.07.2016\Cub.WebUI\bin\Moq.xml
+C:\Users\SID\Desktop\SolutionCub-14.07.2016\Cub.WebUI\bin\Ninject.xml
+C:\Users\SID\Desktop\SolutionCub-14.07.2016\Cub.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\SID\Desktop\SolutionCub-14.07.2016\Cub.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\SID\Desktop\SolutionCub-14.07.2016\Cub.WebUI\bin\System.Web.Providers.xml
+C:\Users\SID\Desktop\SolutionCub-14.07.2016\Cub.WebUI\bin\System.Web.Razor.xml
+C:\Users\SID\Desktop\SolutionCub-14.07.2016\Cub.WebUI\bin\System.Web.Webpages.xml
+C:\Users\SID\Desktop\SolutionCub-14.07.2016\Cub.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\SID\Desktop\SolutionCub-14.07.2016\Cub.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\SID\Desktop\SolutionCub-14.07.2016\Cub.WebUI\bin\System.Web.Helpers.xml
+C:\Users\SID\Desktop\SolutionCub-14.07.2016\Cub.WebUI\bin\System.Web.Mvc.xml
+C:\Users\SID\Desktop\SolutionCub-14.07.2016\Cub.WebUI\obj\Debug\Cub.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\SID\Desktop\SolutionCub-14.07.2016\Cub.WebUI\obj\Debug\Cub.WebUI.dll
+C:\Users\SID\Desktop\SolutionCub-14.07.2016\Cub.WebUI\obj\Debug\Cub.WebUI.pdb
+C:\Users\SID\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\Cub.WebUI.dll.config
+C:\Users\SID\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\Cub.WebUI.dll
+C:\Users\SID\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\Cub.WebUI.pdb
+C:\Users\SID\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\Castle.Core.dll
+C:\Users\SID\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\Cub.Domian.dll
+C:\Users\SID\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\EntityFramework.dll
+C:\Users\SID\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\SID\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SID\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\Moq.dll
+C:\Users\SID\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\Ninject.dll
+C:\Users\SID\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\SID\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\SID\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\System.Net.Http.dll
+C:\Users\SID\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\System.Web.Helpers.dll
+C:\Users\SID\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\System.Web.Mvc.dll
+C:\Users\SID\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\System.Web.Providers.dll
+C:\Users\SID\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\System.Web.Razor.dll
+C:\Users\SID\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\SID\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\System.Web.Webpages.dll
+C:\Users\SID\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\SID\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\Cub.Domian.pdb
+C:\Users\SID\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\Castle.Core.xml
+C:\Users\SID\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\EntityFramework.xml
+C:\Users\SID\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\SID\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\Moq.xml
+C:\Users\SID\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\Ninject.xml
+C:\Users\SID\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\SID\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\SID\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\System.Web.Providers.xml
+C:\Users\SID\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\System.Web.Razor.xml
+C:\Users\SID\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\System.Web.Webpages.xml
+C:\Users\SID\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\SID\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\SID\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\System.Web.Helpers.xml
+C:\Users\SID\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\System.Web.Mvc.xml
+C:\Users\SID\Desktop\SolutionCub-23.07.2016\Cub.WebUI\obj\Debug\Cub.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\SID\Desktop\SolutionCub-23.07.2016\Cub.WebUI\obj\Debug\Cub.WebUI.dll
+C:\Users\SID\Desktop\SolutionCub-23.07.2016\Cub.WebUI\obj\Debug\Cub.WebUI.pdb
+C:\Users\Serg\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\Cub.WebUI.dll.config
+C:\Users\Serg\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\Cub.WebUI.dll
+C:\Users\Serg\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\Cub.WebUI.pdb
+C:\Users\Serg\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\Castle.Core.dll
+C:\Users\Serg\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\Cub.Domian.dll
+C:\Users\Serg\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\EntityFramework.dll
+C:\Users\Serg\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Serg\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Serg\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\Moq.dll
+C:\Users\Serg\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\Ninject.dll
+C:\Users\Serg\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\Serg\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\Serg\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\System.Net.Http.dll
+C:\Users\Serg\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\System.Web.Helpers.dll
+C:\Users\Serg\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Serg\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\System.Web.Providers.dll
+C:\Users\Serg\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\System.Web.Razor.dll
+C:\Users\Serg\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Serg\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\System.Web.Webpages.dll
+C:\Users\Serg\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\Serg\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\Cub.Domian.pdb
+C:\Users\Serg\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\Cub.Domian.dll.config
+C:\Users\Serg\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\Castle.Core.xml
+C:\Users\Serg\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\EntityFramework.xml
+C:\Users\Serg\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Serg\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\Moq.xml
+C:\Users\Serg\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\Ninject.xml
+C:\Users\Serg\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\Serg\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\Serg\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\System.Web.Providers.xml
+C:\Users\Serg\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\System.Web.Razor.xml
+C:\Users\Serg\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\System.Web.Webpages.xml
+C:\Users\Serg\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Serg\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\Serg\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\System.Web.Helpers.xml
+C:\Users\Serg\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Serg\Desktop\SolutionCub-23.07.2016\Cub.WebUI\obj\Debug\Cub.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Serg\Desktop\SolutionCub-23.07.2016\Cub.WebUI\obj\Debug\Cub.WebUI.dll
+C:\Users\Serg\Desktop\SolutionCub-23.07.2016\Cub.WebUI\obj\Debug\Cub.WebUI.pdb
+C:\Users\Serg\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Serg\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\Serg\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Serg\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\Serg\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Serg\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\kekuh\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\Cub.WebUI.dll.config
+C:\Users\kekuh\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\Cub.WebUI.dll
+C:\Users\kekuh\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\Cub.WebUI.pdb
+C:\Users\kekuh\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\Castle.Core.dll
+C:\Users\kekuh\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\Cub.Domian.dll
+C:\Users\kekuh\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\EntityFramework.dll
+C:\Users\kekuh\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\kekuh\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kekuh\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\Moq.dll
+C:\Users\kekuh\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\Ninject.dll
+C:\Users\kekuh\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\kekuh\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\kekuh\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\System.Net.Http.dll
+C:\Users\kekuh\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\System.Web.Helpers.dll
+C:\Users\kekuh\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\System.Web.Mvc.dll
+C:\Users\kekuh\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\System.Web.Providers.dll
+C:\Users\kekuh\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\System.Web.Razor.dll
+C:\Users\kekuh\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\kekuh\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\System.Web.Webpages.dll
+C:\Users\kekuh\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\kekuh\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\Cub.Domian.pdb
+C:\Users\kekuh\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\Castle.Core.xml
+C:\Users\kekuh\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\EntityFramework.xml
+C:\Users\kekuh\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\kekuh\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\Moq.xml
+C:\Users\kekuh\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\Ninject.xml
+C:\Users\kekuh\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\kekuh\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\kekuh\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\System.Web.Providers.xml
+C:\Users\kekuh\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\System.Web.Razor.xml
+C:\Users\kekuh\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\System.Web.Webpages.xml
+C:\Users\kekuh\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\kekuh\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\kekuh\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\System.Web.Helpers.xml
+C:\Users\kekuh\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\System.Web.Mvc.xml
+C:\Users\kekuh\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\ru\System.Web.Razor.resources.dll
+C:\Users\kekuh\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\kekuh\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\kekuh\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\kekuh\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\kekuh\Desktop\SolutionCub-23.07.2016\Cub.WebUI\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\kekuh\Desktop\SolutionCub-23.07.2016\Cub.WebUI\obj\Debug\Cub.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\kekuh\Desktop\SolutionCub-23.07.2016\Cub.WebUI\obj\Debug\Cub.WebUI.dll
+C:\Users\kekuh\Desktop\SolutionCub-23.07.2016\Cub.WebUI\obj\Debug\Cub.WebUI.pdb
+C:\Users\kekuh\Desktop\SolutionCub-23.07.2016\Cub.WebUI\obj\Debug\Cub.WebUI.Properties.Resources.resources
+C:\Users\kekuh\Desktop\SolutionCub-23.07.2016\Cub.WebUI\obj\Debug\Cub.WebUI.csproj.GenerateResource.Cache
+C:\Users\kekuh\Desktop\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\Cub.WebUI.dll.config
+C:\Users\kekuh\Desktop\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\Cub.WebUI.dll
+C:\Users\kekuh\Desktop\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\Cub.WebUI.pdb
+C:\Users\kekuh\Desktop\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\Castle.Core.dll
+C:\Users\kekuh\Desktop\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\Cub.Domian.dll
+C:\Users\kekuh\Desktop\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\EntityFramework.dll
+C:\Users\kekuh\Desktop\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\kekuh\Desktop\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kekuh\Desktop\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\Moq.dll
+C:\Users\kekuh\Desktop\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\Ninject.dll
+C:\Users\kekuh\Desktop\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\kekuh\Desktop\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\kekuh\Desktop\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\System.Net.Http.dll
+C:\Users\kekuh\Desktop\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\System.Web.Helpers.dll
+C:\Users\kekuh\Desktop\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\System.Web.Mvc.dll
+C:\Users\kekuh\Desktop\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\System.Web.Providers.dll
+C:\Users\kekuh\Desktop\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\System.Web.Razor.dll
+C:\Users\kekuh\Desktop\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\kekuh\Desktop\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\System.Web.Webpages.dll
+C:\Users\kekuh\Desktop\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\kekuh\Desktop\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\Cub.Domian.pdb
+C:\Users\kekuh\Desktop\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\Castle.Core.xml
+C:\Users\kekuh\Desktop\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\EntityFramework.xml
+C:\Users\kekuh\Desktop\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\kekuh\Desktop\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\Moq.xml
+C:\Users\kekuh\Desktop\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\Ninject.xml
+C:\Users\kekuh\Desktop\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\kekuh\Desktop\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\kekuh\Desktop\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\System.Web.Providers.xml
+C:\Users\kekuh\Desktop\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\System.Web.Razor.xml
+C:\Users\kekuh\Desktop\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\System.Web.Webpages.xml
+C:\Users\kekuh\Desktop\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\kekuh\Desktop\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\kekuh\Desktop\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\System.Web.Helpers.xml
+C:\Users\kekuh\Desktop\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\System.Web.Mvc.xml
+C:\Users\kekuh\Desktop\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\ru\System.Web.Razor.resources.dll
+C:\Users\kekuh\Desktop\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\kekuh\Desktop\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\kekuh\Desktop\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\kekuh\Desktop\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\kekuh\Desktop\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\kekuh\Desktop\ДИПЛОМ - Кекух СС\Cub.WebUI\obj\Debug\Cub.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\kekuh\Desktop\ДИПЛОМ - Кекух СС\Cub.WebUI\obj\Debug\Cub.WebUI.Properties.Resources.resources
+C:\Users\kekuh\Desktop\ДИПЛОМ - Кекух СС\Cub.WebUI\obj\Debug\Cub.WebUI.csproj.GenerateResource.Cache
+C:\Users\kekuh\Desktop\ДИПЛОМ - Кекух СС\Cub.WebUI\obj\Debug\Cub.WebUI.dll
+C:\Users\kekuh\Desktop\ДИПЛОМ - Кекух СС\Cub.WebUI\obj\Debug\Cub.WebUI.pdb
+D:\SolutionCub-Последний вариант\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\Cub.WebUI.dll.config
+D:\SolutionCub-Последний вариант\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\Cub.WebUI.dll
+D:\SolutionCub-Последний вариант\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\Cub.WebUI.pdb
+D:\SolutionCub-Последний вариант\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\Castle.Core.dll
+D:\SolutionCub-Последний вариант\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\Cub.Domian.dll
+D:\SolutionCub-Последний вариант\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\EntityFramework.dll
+D:\SolutionCub-Последний вариант\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\EntityFramework.SqlServer.dll
+D:\SolutionCub-Последний вариант\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\SolutionCub-Последний вариант\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\Moq.dll
+D:\SolutionCub-Последний вариант\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\Ninject.dll
+D:\SolutionCub-Последний вариант\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\Ninject.Web.Common.dll
+D:\SolutionCub-Последний вариант\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\Ninject.Web.Mvc.dll
+D:\SolutionCub-Последний вариант\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\System.Net.Http.dll
+D:\SolutionCub-Последний вариант\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\System.Web.Helpers.dll
+D:\SolutionCub-Последний вариант\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\System.Web.Mvc.dll
+D:\SolutionCub-Последний вариант\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\System.Web.Providers.dll
+D:\SolutionCub-Последний вариант\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\System.Web.Razor.dll
+D:\SolutionCub-Последний вариант\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\System.Web.Webpages.Deployment.dll
+D:\SolutionCub-Последний вариант\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\System.Web.Webpages.dll
+D:\SolutionCub-Последний вариант\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\System.Web.Webpages.Razor.dll
+D:\SolutionCub-Последний вариант\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\Cub.Domian.pdb
+D:\SolutionCub-Последний вариант\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\Castle.Core.xml
+D:\SolutionCub-Последний вариант\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\EntityFramework.xml
+D:\SolutionCub-Последний вариант\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\EntityFramework.SqlServer.xml
+D:\SolutionCub-Последний вариант\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\Moq.xml
+D:\SolutionCub-Последний вариант\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\Ninject.xml
+D:\SolutionCub-Последний вариант\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\Ninject.Web.Common.xml
+D:\SolutionCub-Последний вариант\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\Ninject.Web.Mvc.xml
+D:\SolutionCub-Последний вариант\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\System.Web.Providers.xml
+D:\SolutionCub-Последний вариант\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\System.Web.Razor.xml
+D:\SolutionCub-Последний вариант\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\System.Web.Webpages.xml
+D:\SolutionCub-Последний вариант\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\System.Web.Webpages.Deployment.xml
+D:\SolutionCub-Последний вариант\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\System.Web.Webpages.Razor.xml
+D:\SolutionCub-Последний вариант\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\System.Web.Helpers.xml
+D:\SolutionCub-Последний вариант\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\System.Web.Mvc.xml
+D:\SolutionCub-Последний вариант\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\ru\System.Web.Razor.resources.dll
+D:\SolutionCub-Последний вариант\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\ru\System.Web.Webpages.resources.dll
+D:\SolutionCub-Последний вариант\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\ru\System.Web.Webpages.Deployment.resources.dll
+D:\SolutionCub-Последний вариант\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\ru\System.Web.Webpages.Razor.resources.dll
+D:\SolutionCub-Последний вариант\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\ru\System.Web.Helpers.resources.dll
+D:\SolutionCub-Последний вариант\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\ru\System.Web.Mvc.resources.dll
+D:\SolutionCub-Последний вариант\ДИПЛОМ - Кекух СС\Cub.WebUI\obj\Debug\Cub.WebUI.csprojResolveAssemblyReference.cache
+D:\SolutionCub-Последний вариант\ДИПЛОМ - Кекух СС\Cub.WebUI\obj\Debug\Cub.WebUI.Properties.Resources.resources
+D:\SolutionCub-Последний вариант\ДИПЛОМ - Кекух СС\Cub.WebUI\obj\Debug\Cub.WebUI.csproj.GenerateResource.Cache
+D:\SolutionCub-Последний вариант\ДИПЛОМ - Кекух СС\Cub.WebUI\obj\Debug\Cub.WebUI.dll
+D:\SolutionCub-Последний вариант\ДИПЛОМ - Кекух СС\Cub.WebUI\obj\Debug\Cub.WebUI.pdb
+E:\GitHub\html-kids\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\Cub.WebUI.dll.config
+E:\GitHub\html-kids\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\Cub.WebUI.dll
+E:\GitHub\html-kids\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\Cub.WebUI.pdb
+E:\GitHub\html-kids\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\Castle.Core.dll
+E:\GitHub\html-kids\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\Cub.Domian.dll
+E:\GitHub\html-kids\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\EntityFramework.dll
+E:\GitHub\html-kids\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\EntityFramework.SqlServer.dll
+E:\GitHub\html-kids\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\Microsoft.Web.Infrastructure.dll
+E:\GitHub\html-kids\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\Moq.dll
+E:\GitHub\html-kids\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\Ninject.dll
+E:\GitHub\html-kids\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\Ninject.Web.Common.dll
+E:\GitHub\html-kids\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\Ninject.Web.Mvc.dll
+E:\GitHub\html-kids\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\System.Net.Http.dll
+E:\GitHub\html-kids\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\System.Web.Helpers.dll
+E:\GitHub\html-kids\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\System.Web.Mvc.dll
+E:\GitHub\html-kids\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\System.Web.Providers.dll
+E:\GitHub\html-kids\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\System.Web.Razor.dll
+E:\GitHub\html-kids\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\System.Web.Webpages.Deployment.dll
+E:\GitHub\html-kids\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\System.Web.Webpages.dll
+E:\GitHub\html-kids\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\System.Web.Webpages.Razor.dll
+E:\GitHub\html-kids\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\Cub.Domian.pdb
+E:\GitHub\html-kids\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\Castle.Core.xml
+E:\GitHub\html-kids\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\EntityFramework.xml
+E:\GitHub\html-kids\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\EntityFramework.SqlServer.xml
+E:\GitHub\html-kids\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\Moq.xml
+E:\GitHub\html-kids\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\Ninject.xml
+E:\GitHub\html-kids\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\Ninject.Web.Common.xml
+E:\GitHub\html-kids\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\Ninject.Web.Mvc.xml
+E:\GitHub\html-kids\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\System.Web.Providers.xml
+E:\GitHub\html-kids\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\System.Web.Razor.xml
+E:\GitHub\html-kids\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\System.Web.Webpages.xml
+E:\GitHub\html-kids\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\System.Web.Webpages.Deployment.xml
+E:\GitHub\html-kids\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\System.Web.Webpages.Razor.xml
+E:\GitHub\html-kids\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\System.Web.Helpers.xml
+E:\GitHub\html-kids\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\System.Web.Mvc.xml
+E:\GitHub\html-kids\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\ru\System.Web.Razor.resources.dll
+E:\GitHub\html-kids\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\ru\System.Web.Webpages.resources.dll
+E:\GitHub\html-kids\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\ru\System.Web.Webpages.Deployment.resources.dll
+E:\GitHub\html-kids\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\ru\System.Web.Webpages.Razor.resources.dll
+E:\GitHub\html-kids\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\ru\System.Web.Helpers.resources.dll
+E:\GitHub\html-kids\ДИПЛОМ - Кекух СС\Cub.WebUI\bin\ru\System.Web.Mvc.resources.dll
+E:\GitHub\html-kids\ДИПЛОМ - Кекух СС\Cub.WebUI\obj\Debug\Cub.WebUI.csprojResolveAssemblyReference.cache
+E:\GitHub\html-kids\ДИПЛОМ - Кекух СС\Cub.WebUI\obj\Debug\Cub.WebUI.Properties.Resources.resources
+E:\GitHub\html-kids\ДИПЛОМ - Кекух СС\Cub.WebUI\obj\Debug\Cub.WebUI.csproj.GenerateResource.Cache
+E:\GitHub\html-kids\ДИПЛОМ - Кекух СС\Cub.WebUI\obj\Debug\Cub.WebUI.dll
+E:\GitHub\html-kids\ДИПЛОМ - Кекух СС\Cub.WebUI\obj\Debug\Cub.WebUI.pdb

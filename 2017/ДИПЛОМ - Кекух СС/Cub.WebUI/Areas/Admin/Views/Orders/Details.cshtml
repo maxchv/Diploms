@@ -1,0 +1,156 @@
+﻿@model Cub.Domian.Entitis.Order
+
+@{
+    ViewBag.Title = "Заявка";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+
+}
+
+<h2>Детали</h2>
+<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+<div>
+    <h4>Заявка</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.RealEstate.Type)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.RealEstate.Type)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Date)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Date)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.City)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.City)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Region)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Region)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Street)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Street)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TypeOfLodging)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TypeOfLodging)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CostOf)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CostOf)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CostBegin)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CostBegin)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AdditionalInfo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AdditionalInfo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Phone)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Phone)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Relevance)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Relevance)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.OurOfferToYou)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.OurOfferToYou)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ContactMeByPhone)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ContactMeByPhone)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ContactMeByEmail)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ContactMeByEmail)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Agreement)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Agreement)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
